@@ -67,3 +67,13 @@ The syntax for items in the list is < li > ListItem < /li >. Keep in mind items 
 <!-- text goes here -->
 Anything between the tags is not displayed on the screen. Useful for notes, both to yourself and others who might view the source code of the page.
 
+<h3> Semantic Tags </h3>
+**< header >, < nav >, < main >, < aside >, < footer >**
+HTML5 introduced new tags called semantic tags - functions similarly to div but generally seen as better practice to use semantic tags.
+Similar to div as they provide a consistent structure that can be targeted with CSS/JavaScript - for example you can style all < header > elements consistently across a site.
+The introduction of semantic tags has generally made the div tag obsolete. The usage of each tag is as follows:
+
+*header* - contains introductory content 
+*nav* - contains navigation content, such as a website navigation menu
+*main* - contains the main content of a document - only one main element should be used in each document
+*aside* - contains content tangentially related to the main content of the page
