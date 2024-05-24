@@ -38,4 +38,32 @@ Defines the beginning and end of the document. Text, images, links, etc. should 
 Up to six levels of headers h1 through h6 - h1 is the largest and they get progressively smaller. Headers are used for headings, not to make text bold - there is a specific tag to bold text.
 
 <h3> Paragraphs </h3>
-**< p >**
+**< p >, < br >**
+Used for "normal" text - < p > causes a line break and adds a trailing blank line while < br > causes a line break with no trailing blank line. As a convenience it's good convention to add 2-3 blank lines between paragraphs to facilitate editing. Unlike the paragraph tag, the br tag is empty and has no closing tag.
+
+<h3> Preformatted Text </h3>
+**< pre >**
+Preformatted text allows you to keep text formatted. Simply wrap text with < pre > text < /pre > instead of < p > text < / p>. When using the paragraph tag, text you manually format loses any line breaks, indentation, etc, while using the preformatted text tag preserves any extra spaces.
+
+<h3> Boldface, Italics, Underline, Strike-Through </h3>
+**< b >, < i >, < u >, < strike >, < strong >, < em >**
+< b > boldens text, < i > italicizes text, < u > underlines text, < strike > displays text with a strike. < strong > bolds text as well and < em > italicizes text, but they are distinct in that they have semantic importance as well - the strong tag indicates bolded text is not just bold but also significant, and the em tag indicates wrapped text should be emphasized, whereas the b and i tags are solely used for stylistic purposes.
+
+<h3> Div </h3>
+**< div >** 
+Helps in organizing html documents - serves as a generic container with no semantic meaning. One of the primary uses is to apply CSS styles and layout properties by assigning different classes or IDs to < div > elements.
+
+<h3> Span </h3>
+**< span >** 
+An inline container used to group elements for styling purposes. Does not provide any visual changes itself but is useful when utilized in conjunction with CSS and JavaScript to control the appearance and behavior of content. CSS styles can be applied to span elements using classes, IDs, or inline styles, and span elements can also be easily targeted and manipulated with JavaScript.
+
+<h3> Lists </h3>
+**< ul >, < ol >, < li >**
+Lists are used to group related items in a structured manner. Ordered lists (< ol >) are used for lists where the order of items are important, unordered lists (< ul >) are used otherwise. 
+The only difference between an ordered list and unordered list is that ordered lists are numbered while unordered lists are bulleted. 
+The syntax for items in the list is < li > ListItem < /li >. Keep in mind items with the < li > tag must be nested inside some form of list.
+
+<h3> Comments </h3>
+<!-- text goes here -->
+Anything between the tags is not displayed on the screen. Useful for notes, both to yourself and others who might view the source code of the page.
+
