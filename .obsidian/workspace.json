@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "18eed5e1b06ce939",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f0d4aec0875018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13305c7696c5e033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Java/01 - DSA - Hashmap - X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6471415de5b49f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b52d3ca43c26635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4b26cb0b1825b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d196f57bf9b92955",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9005183fea2f8375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d3103cba2eb5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec75e28cbd12b666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02866d067da80c39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/Java/01 - DSA - Hashmap - X.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d27178adafbedfc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS/Java/01 - DSA - Hashmap - X.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ddc91afac3d5a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77dfdfa639b3f057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS/Java/01 - DSA - Hashmap - X.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13305c7696c5e033",
+  "lastOpenFiles": [
+    "CS/Java/00 - Navigation.md",
+    "CS/Java/01 - DSA - Hashmap - X.md",
+    "CS/Java/01 - DSA - Stack - X.md",
+    "CS/Leetcode Daily/00 - Navigation.md",
+    "CS/Leetcode Daily/01 - Day 1 - Twosum - X.md",
+    "CS/HTML/Syntax.md",
+    "CS/Leetcode Daily/02 - Day 2 -.md",
+    "[hashmap.md",
+    "CS/Leetcode Daily",
+    "CS/Java",
+    "README.md"
+  ]
+}
