@@ -1,3 +1,4 @@
+
 **Problem Number: 1
 Difficulty: Easy
 Relevant Tags: [[02 - DS - Hashmap - O]]**

@@ -4,7 +4,7 @@
 K - type of keys maintained
 V - type of mapped values
 **Example Initialization:** HashMap<String, Integer> dogTable = new HashMap<>();
-**Relevant Tags:** [[02 - DS - Hashtable - O]], [[01 - C - Hashing - X]]
+**Relevant Tags:** [[02 - DS - Hashtable - O]], [[01 - C - Hashing - T]]
 
 -----
 
