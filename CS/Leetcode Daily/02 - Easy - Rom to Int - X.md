@@ -25,6 +25,9 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Given a roman numeral, convert it to an integer.
 
 -----
+Seems relatively simple - first map each string I-M to its corresponding value on a hashmap, then use substring to pull stuff out of the string -> use map
 
+After creating the code - seems to be working except for the edge cases - trying to think of how to handle them
+One way could be to check if the letter is V, L, or D - if it is then check if the letter before is one of the other corresponding letters, if yes, you subtract that number and then add whatever the exception is, for example if the letter is a V and the letter before is an I, you would subtract I
 
 <h1> Solution </h1>
