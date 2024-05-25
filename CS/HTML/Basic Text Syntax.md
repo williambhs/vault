@@ -4,6 +4,7 @@ For example - <p>&lt;h1&gt; header &lt;/h1&gt;</p>
 To display the literal text '< h >', you need to use HTML character entities, or else HTML interprets it as a header. When typing the text above without using character entities, the following is displayed:
 <h1> header </h1>
 HTML tags are not case sensitive but URLs generally are. When writing text it's a good convention to leave many blank lines between paragraphs.
+See: [[Entities]]
 
 <h1> Tags </h1>
 **note - uses < h1 > so the text appears larger.**
@@ -20,7 +21,7 @@ Not required by all clients but common convention to include one at the start of
 <h3> Head Tag </h3>
 **< head >**
 The first of two main sections of an HTML document used to provide info about the document, used mostly by search engines/browsers. Has the purpose of holding the title tag.
-
+Some things commonly under the head tag include the title tag, metadata, etc.
 <h3> Title Tag </h3>
 **< title >**
 Specifies the title of a web page which is displayed on the browsers title or tab (the text shown at the top of the tab). Also used by search engines to understand the content of the page. 

@@ -1,5 +1,5 @@
 
-<h1> Day X - Problem Name - Status </h1>
+<h1> Day # - Difficulty - Problem Name - Status </h1>
 
 **Problem Number: 
 Difficulty: 
