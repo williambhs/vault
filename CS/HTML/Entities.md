@@ -1,1 +1,3 @@
-Some characters are "reserved" in HTML and thus must be replaced with entities - for example, if you want to type a less than or greater than sign, HTML will interpret it as starting or closing a tag, so you need to use the HTML entity "&lt;" or "&gt;" to replace them.
+Some characters are "reserved" in HTML and thus must be replaced with entities - for example, if you want to type a less than or greater than sign, HTML will interpret it as starting or closing a tag, so you need to use the HTML entity "&lt;" or "&gt;" to replace them. Ironically, the ampersand itself requires the use of an entity to type.
+Another common use for entities is to type characters that are otherwise not found on the keyboard.
+![[Useful HTML entities.png]]

@@ -1,4 +1,4 @@
-**Relevant Tags:** [[02 - DS - Hashtable - O]], [[02 - DS - Hashmap - O]]
+**Relevant Tags:** [[02 - DS - O - Hashtable]], [[02 - DS - O - Hashmap]]
 
 -----
 <h1> Overview </h1>
@@ -8,7 +8,7 @@ Three main components of hashing:
 2 - Hash Function: Receives the key and returns the index of an element in an array called a hash table. The index is called the hash index.
 3 - Hash Table: a data structure that maps keys to values using a special function called a hash function. 
 
-![[hash img.png]]
+![[Hashing Infographic.png]]
 
 **Hash functions** are a fundamental concept in CS - they take an input and return a fixed size string of bytes. The output is called the hash code or hash value. Their purpose is to map data to values which are then used as indexes in hash tables.
 Some examples of hash functions include division, multiplication, mid-square, folding, cryptographic, universal, perfect, etc.

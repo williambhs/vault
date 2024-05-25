@@ -1,7 +1,6 @@
 
 **Problem Number: 13
-Difficulty: Easy
-Relevant Tags:
+Relevant Tags: [[02 - DS - O - Hashmap]]
 <h1> Problem Description </h1>
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 

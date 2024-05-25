@@ -1,7 +1,6 @@
 
 **Problem Number: 706
-Difficulty: Easy
-Relevant Tags: [[02 - DS - Hashmap - O]]
+Relevant Tags: [[02 - DS - O - Hashmap]], [[02 - DS - O - Array]], [[01 - C - I - Hashing]]
 <h1> Problem Description </h1>
 Design a HashMap without using any built-in hash table libraries.
 
@@ -37,3 +36,40 @@ myHashMap.get(2);    // return -1 (i.e., not found), The map is now [[1,1]]
 - At most `104` calls will be made to `put`, `get`, and `remove`.
 
 -----
+Two ways to solve - one with hashing and one with an array. The array method seems to be the easier solution, but I will hopefully revisit this problem at a later date and solve using the hashing solution.
+Solved in like 30 seconds once I realized how to do it... I assume with hashing it's far more difficult though.
+
+<h1> Solution </h1>
+class MyHashMap {
+
+int[] map;
+
+  
+
+public MyHashMap() {
+
+map = new int[1000001];
+
+Arrays.fill(map, -1);
+
+}
+
+public void put(int key, int value) {
+
+map[key] = value;
+
+}
+
+public int get(int key) {
+
+return map[key];
+
+}
+
+public void remove(int key) {
+
+map[key] = -1;
+
+}
+
+}

@@ -78,3 +78,10 @@ The introduction of semantic tags has generally made the div tag obsolete. The u
 *nav* - contains navigation content, such as a website navigation menu
 *main* - contains the main content of a document - only one main element should be used in each document
 *aside* - contains content tangentially related to the main content of the page
+
+<h3> Anchor Tag </h3>
+**< a >**
+Highly useful and used in conjunction with href ([[Rel, Link, HREF]]) to link things. 
+An example of how one might use the anchor tag would be: 
+< a href = "https://mail.google.com/mail/u/0/#inbox"> link to gmail < /a >.
+Note how the first closing bracket is after the link, followed by the text you want to "trigger" the link, and then finally followed by the closing tag.

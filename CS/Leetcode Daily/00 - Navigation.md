@@ -1,8 +1,8 @@
-
-<h1> Day # - Difficulty - Problem Name - Status </h1>
+**Goal is to do 1-3 leetcode problems daily while learning concepts - try to do more on weekends.**
+**Total Problems Completed:** 4
+<h1> Day # - Difficulty - Status - Problem Name </h1>
 
 **Problem Number: 
-Difficulty: 
 Relevant Tags:
 <h1> Problem Description </h1>
 
