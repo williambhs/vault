@@ -31,3 +31,11 @@ Arrays.fill(Object[] a, Object val) - pretty self explanatory. Fills the array w
 Arrays.equals(Object[] a, Object[] b) - also pretty self explanatory. Returns true if the given two arrays are equivalent.
 
 Arrays.copyOf(Object[] a, int val) - creates a new array with contents of a and length val. If the copy has a greater length than the original, the 
+
+Arrays.asList(Object[] a) - converts the array into a list. Note that this does not work with wrapper classes like Integers because they're primitives as opposed to objects. This means .asList will work on strings, but not ints. 
+Here is an example how you would use asList:
+
+public boolean containsDuplicate(String[] arr) 
+{
+     ArrayList< String > temp = new ArrayList<>(Arrays.asList(arr));
+}

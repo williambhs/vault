@@ -1,6 +1,5 @@
 
-**Java Documentation:** [HashMap (Java Platform SE 8 ) (oracle.com)](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
-
+**Java Documentation:** https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
 **Syntax for initialization:** HashMap<key, value> HashMapName = new HashMap<>(); 
 K - type of keys maintained
 V - type of mapped values
