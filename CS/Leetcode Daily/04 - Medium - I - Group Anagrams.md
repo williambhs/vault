@@ -28,6 +28,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 - `strs[i]` consists of lowercase English letters.
 
 -----
+first medium problem yay
 trying to think of ways to solve this problem - 
 could use double for loop. definitely inefficient but would work.
 implementation would look like 

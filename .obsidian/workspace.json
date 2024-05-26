@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
+                "file": "CS/Leetcode Daily/04 - Medium - I - Group Anagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
+                "file": "CS/Leetcode Daily/04 - Medium - I - Group Anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
+                "file": "CS/Leetcode Daily/04 - Medium - I - Group Anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md"
+                "file": "CS/Leetcode Daily/04 - Medium - I - Group Anagrams.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
     "CS/Leetcode Daily/03 - Easy - O - Valid Anagram.md",
-    "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
+    "CS/Leetcode Daily/04 - Medium - I - Group Anagrams.md",
     "CS/Java/02 - DS - O - Hashmap.md",
     "CS/Java/02 - DS - O - HashSet.md",
     "CS/Java/02 - DS - O - ArrayList.md",
