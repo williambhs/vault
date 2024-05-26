@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
+                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
+                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
+                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md"
+                "file": "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "13305c7696c5e033",
   "lastOpenFiles": [
+    "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
     "CS/Leetcode Daily/03 - Easy - O - Valid Anagram.md",
     "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
     "CS/Java/02 - DS - O - Hashmap.md",
@@ -164,7 +165,6 @@
     "CS/Java/02 - DS - O - Hashtable.md",
     "CS/Java/02 - DS - X - Linked List.md",
     "README.md",
-    "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
     "CS/Leetcode Daily/03 - Easy - O - Contains Dupe.md",
     "CS/Leetcode Daily/02 - Easy - O - Rom to Int.md",
     "CS/Leetcode Daily/01 - Easy - O - Twosum.md",

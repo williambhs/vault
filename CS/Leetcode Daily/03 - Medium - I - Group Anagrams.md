@@ -41,4 +41,117 @@ b] add each character to the hashmap, then compare that to every other string in
 6 - return 
 7 - profit?!?!?!?
 
+
+
+progress so far -
+
+class Solution {
+
+    public List<List<String>> groupAnagrams(String[] strs) {
+
+        // initial stuff
+
+        ArrayList<List<String>> arr = new ArrayList<List<String>>();
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+  
+
+        // converting strs to an arraylist
+
+        ArrayList<String> input = new ArrayList<String>();
+
+        for (String str : strs) {
+
+            input.add(str);
+
+        }
+
+        // ----------------------------------------------
+
+  
+
+        for (int i = 0; i < input.size(); i++) {
+
+            map.clear();
+
+            ArrayList<String> temp = new ArrayList<String>();
+
+            String s = input.get(i);
+
+            temp.add(s);
+
+            input.remove(s);
+
+  
+
+            // making the hashmap
+
+            for (int x = 0; x < s.length(); x++) {
+
+                if (map.containsKey(s)) {
+
+                    map.put(s, map.get(s) + 1);
+
+                } else {
+
+                    map.put(s, x);
+
+                }
+
+            }
+
+  
+
+            // comparing with the rest of the strings
+
+            for (int j = 0; j < input.size(); k++) {
+
+                String comp = input.get(j);
+
+  
+
+                // checking if it's an anagram
+
+                for (int k = 0; k < comp.length(); k++) {
+
+                    char c = comp.charAt(k);
+
+                    if (map.containsKey(c)) {
+
+                        if (map.get(c) > 1) {
+
+                            map.put(c, map.get(c) - 1);
+
+                        } else {
+
+                            map.remove(c);
+
+                        }
+
+                    } else {
+
+                        return;
+
+                    }
+
+                }
+
+                temp.add(comp);
+
+                input.remove(comp);
+
+            }
+
+            arr.add(temp);
+
+  
+
+        }
+
+        return arr;
+
+    }
+
+}
 <h1> Solution </h1>
