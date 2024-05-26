@@ -22,6 +22,7 @@ Similarly - use .get to get values mapped to a certain key - for example, after 
 **TO CLARIFY: THIS MEANS YOU CANNOT HAVE TWO ENTRIES WITH THE SAME KEY. YOU CAN HAVE KEY "A" AND KEY "C" BOTH POINTING TO THE SAME VALUE BUT YOU CANNOT HAVE KEY "A" TWICE POINTING TO DIFFERENT VALUES.**
 
 **Useful/relevant methods:**
+.clear()
 .get(Object key)
 .put(K key, V value)
 .remove(Object key)

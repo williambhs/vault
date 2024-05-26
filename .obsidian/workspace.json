@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java/01 - C - Hashing - T.md",
+                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java/01 - C - Hashing - T.md",
+                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java/01 - C - Hashing - T.md",
+                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java/01 - C - Hashing - T.md"
+                "file": "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md"
               }
             }
           }
@@ -148,34 +148,37 @@
   },
   "active": "13305c7696c5e033",
   "lastOpenFiles": [
-    "CS/Java/02 - DS - Hashmap - O.md",
-    "CS/Java/02 - DS - Hashtable - O.md",
-    "CS/Java/02 - DS - Linked List - X.md",
+    "CS/Leetcode Daily/03 - Easy - O - Valid Anagram.md",
+    "CS/Leetcode Daily/03 - Medium - I - Group Anagrams.md",
+    "CS/Java/02 - DS - O - Hashmap.md",
+    "CS/Java/02 - DS - O - HashSet.md",
+    "CS/Java/02 - DS - O - ArrayList.md",
+    "CS/Java/02 - DS - O - Array.md",
     "CS/Java/00 - Navigation.md",
-    "CS/Java/01 - C - Bucket - T.md",
-    "CS/Java/01 - C - Hashing - T.md",
-    "CS/Java/01 - C - Time Complexity - X.md",
-    "CS/Java/01  - C - Thread Safety - X.md",
-    "CS/Java/01 - C - LIFO - X.md",
-    "CS/HTML/Basic Text Syntax.md",
-    "CS/HTML/Entities.md",
-    "CS/HTML/Rel, Link, HREF.md",
-    "CS/Images/hash img.png",
-    "CS/HTML/Validation.md",
-    "CS/Leetcode Daily/01 - Easy - Twosum - O.md",
-    "CS/Leetcode Daily/02 - Easy - Rom to Int - O.md",
-    "CS/Leetcode Daily/03 - Easy - Design HashMap.md",
-    "CS/Leetcode Daily/00 - Navigation.md",
-    "CS/Images",
-    "CS/Java/02 - DS - Stack - X.md",
-    "CS/Leetcode Daily/01 - Easy - Twosum - X.md",
-    "CS/Leetcode Daily/02 - Day 2 - Rom to Int - X.md",
-    "CS/Leetcode Daily/01 - Day 1 - Twosum - X.md",
+    "CS/Java/01 - C - X - Thread Safety.md",
+    "CS/Java/01 - C - I - Bucket.md",
+    "CS/Java/01 - C - I - Hashing.md",
+    "CS/Java/01 - C - X - LIFO.md",
+    "CS/Java/01 - C - X - Time Complexity.md",
+    "CS/Java/03 - DT - O - String.md",
+    "CS/Java/02 - DS - O - Hashtable.md",
+    "CS/Java/02 - DS - X - Linked List.md",
     "README.md",
-    "CS/HTML/Syntax.md",
-    "CS/Java/01 - DSA - Hashmap - X.md",
-    "CS/Java/01 - DSA - Stack - X.md",
-    "CS/Leetcode Daily/02 - Day 2 -.md",
+    "CS/Leetcode Daily/03 - Easy - O - Ransom Note.md",
+    "CS/Leetcode Daily/03 - Easy - O - Contains Dupe.md",
+    "CS/Leetcode Daily/02 - Easy - O - Rom to Int.md",
+    "CS/Leetcode Daily/01 - Easy - O - Twosum.md",
+    "CS/Leetcode Daily/00 - Navigation.md",
+    "CS/Leetcode Daily/03 - Easy - I - Design HMap.md",
+    "CS/Leetcode Daily/03 - Easy - Design HashMap.md",
+    "CS/Java/02 - DS - X - Stack.md",
+    "CS/Images/Useful HTML entities.png",
+    "CS/Images/Hashing Infographic.png",
+    "CS/Images/HashSet method summary.png",
+    "CS/Leetcode Daily/02 - Easy - Rom to Int - O.md",
+    "CS/Leetcode Daily/01 - Easy - Twosum - O.md",
+    "CS/Images/hash img.png",
+    "CS/Images",
     "CS/Leetcode Daily",
     "CS/Java"
   ]
