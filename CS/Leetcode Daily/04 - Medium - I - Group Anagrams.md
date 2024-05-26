@@ -301,5 +301,8 @@ class Solution {
 }
 
 ----
-
+alright apparently this is too inefficient and timefails so i gave up and looked at the solution
+basically you're supposed to:
+1 - make hashmap of< string, list of strings > where the key is a sorted version of the string and the list of strings is just everything that's an anagram of the key
+2 - just pass the map into the arraylist as the key?
 <h1> Solution </h1>
