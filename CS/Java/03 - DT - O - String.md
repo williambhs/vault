@@ -17,9 +17,11 @@ String str = new String("bruh");
 
 -----
 
-Strings are sequences of characters. In Java, string objects are immutable which means they are constant and thus cannot be changed after creation.
+Strings are sequences of characters. In Java, string objects are immutable which means they are constant and thus cannot be changed after creation. It is important to note that strings are non-primitive data types and refer to an object.
 
 As seen above - two ways to create a string, using string literals and using the new keyword. When you use a string literal, Java automatically creates a string object with that value - the value is automatically interned which means if more than one string literal with the same value is used, they will reference the same string object in memory. 
+
+This means if you use == on string literals it will return true, but not if you use the new keyword. If using the new keyword use .equals to compare strings.
 
 **Useful/Relevant Methods:** 
 

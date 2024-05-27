@@ -305,4 +305,31 @@ alright apparently this is too inefficient and timefails so i gave up and looked
 basically you're supposed to:
 1 - make hashmap of< string, list of strings > where the key is a sorted version of the string and the list of strings is just everything that's an anagram of the key
 2 - just pass the map into the arraylist as the key?
+
+so after thinking about this a little more 
+the key is a sorted version of the string.tocharArray()
+iterate through strs, if sorted strs[i].tochararray is equal to the key you add str[i] to the list
+
 <h1> Solution </h1>
+```java
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+        HashMap<String, ArrayList<String>> map = new HashMap<>();
+        for (String str: strs)
+        {
+            char[] c = str.toCharArray();
+            Arrays.sort(c);
+            String s = new String(c);
+            if (!map.containsKey(s))
+            {
+                map.put(s, new ArrayList<>());
+            }
+            map.get(s).add(str);
+        }
+        ArrayList<List<String>> ret = new ArrayList<List<String>>();
+        ret.addAll(map.values());
+        return ret;    
+    }     
+}
+```
+

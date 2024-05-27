@@ -33,4 +33,6 @@ Similarly - use .get to get values mapped to a certain key - for example, after 
 .size()
 .containsKey(Object key)
 .containsValue(Object value)
+.values() - returns a collection view of all the values
 
+**Important:** If you want to add all the values in a hashmap to an arraylist, you can do ArrName.addAll(map.values()). Potentially useful for some LC problems.
