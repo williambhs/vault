@@ -39,3 +39,5 @@ public boolean containsDuplicate(String[] arr)
 {
      ArrayList< String > temp = new ArrayList<>(Arrays.asList(arr));
 }
+
+This is also particularly useful for objects if you want to use the .contain method - for example if you have an array arr, you could call asList and then the .contains method using arr.AsList().contains(String str). Note this does not work for primitives.

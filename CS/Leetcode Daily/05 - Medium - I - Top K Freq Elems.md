@@ -29,4 +29,10 @@ Asks you to return an array of the k elements that appear the most
 Thinking of a solution - create a hashmap frequency table with the key being the int and the value being how frequently it appears
 The issue after that is how to find the largest k values and return the corresponding keys
 Probably very inefficient but you could create an arraylist - while the arraylist is less than size k you keep iterating 
+
+coming back to this problem the next day - instead of iterating through values you could iterate through the .get() function on each key and update two variables - one that tracks the key and one that tracks the largest value returned by .get called on that key, then at the end of the loop you add the key to the array and do that k times
+
+came up with a working solution that passes 19/21 test cases but times out - 
+
+
 <h1> Solution </h1>

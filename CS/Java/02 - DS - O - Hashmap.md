@@ -33,6 +33,18 @@ Similarly - use .get to get values mapped to a certain key - for example, after 
 .size()
 .containsKey(Object key)
 .containsValue(Object value)
+
 .values() - returns a collection view of all the values
+.keySet() - returns a set view of all keys, similar to values()
 
 **Important:** If you want to add all the values in a hashmap to an arraylist, you can do ArrName.addAll(map.values()). Potentially useful for some LC problems.
+
+**Hashmap Traversal:**
+
+1 - use an iterator (see: [[01 - C - X - Iterator]])
+
+2 - alternatively - you can use a for each loop/enhanced for loop in conjunction with .values() or .keySet(). This might look like:
+
+for (String str: map.keySet()) 
+or
+for (int i: map.values())

@@ -3,6 +3,8 @@
 <h2> 01 - C </h2>
 <h2> 02 - DS </h2>
 <h2> 03 - DT </h2>
+<h2> 04 - A </h2>
+
 <h3> C - Concept</h3>
 **Relevant Tags:**
 
@@ -23,3 +25,7 @@
 **Relevant Tags:** 
 
 -----
+
+<h3> A - Algorithm </h3>
+**Relevant Tags:**
+
