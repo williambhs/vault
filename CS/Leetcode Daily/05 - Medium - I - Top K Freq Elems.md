@@ -38,4 +38,5 @@ after looking at solutions - you're supposed to create an array of lists that st
 
 Then, for int i = the length of the array, you add values and decrement i until i is equal to the length of the array - k.
 
+this shit is way too hard bro ill come back and do it some later time
 <h1> Solution </h1>
