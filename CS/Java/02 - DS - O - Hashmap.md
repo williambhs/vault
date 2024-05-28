@@ -37,6 +37,13 @@ Similarly - use .get to get values mapped to a certain key - for example, after 
 .values() - returns a collection view of all the values
 .keySet() - returns a set view of all keys, similar to values()
 
+.getOrDefault(Object Key, V defaultValue) - returns the value the key is mapped to OR the default value if the map doesn't have a mapping for the key
+**Useful for creating frequency tables:** for example, you could do:
+for (int num: nums)
+{
+	map.put(num, map.getOrDefault(num, 0) + 1);
+}
+
 **Important:** If you want to add all the values in a hashmap to an arraylist, you can do ArrName.addAll(map.values()). Potentially useful for some LC problems.
 
 **Hashmap Traversal:**

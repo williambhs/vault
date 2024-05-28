@@ -1,4 +1,4 @@
-**Relevant Tags:** [[02 - DS - O - Hashtable]], [[02 - DS - O - Hashmap]]
+**Relevant Tags:** [[02 - DS - O - Hashtable]], [[02 - DS - O - HashMap]]
 
 -----
 <h1> Overview </h1>

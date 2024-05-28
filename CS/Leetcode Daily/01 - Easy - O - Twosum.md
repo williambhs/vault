@@ -1,6 +1,6 @@
 
 **Problem Number: 1
-Relevant Tags: [[02 - DS - O - Hashmap]]**, [[04 - A - O - Two Pointers]]
+Relevant Tags: [[02 - DS - O - HashMap]]**, [[04 - A - O - Two Pointers]]
 <h1> Problem Description </h1>
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 

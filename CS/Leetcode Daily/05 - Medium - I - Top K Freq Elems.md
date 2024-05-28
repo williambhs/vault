@@ -1,6 +1,6 @@
 
 **Problem Number: 347
-Relevant Tags: [[02 - DS - O - Hashmap]]
+Relevant Tags: [[02 - DS - O - HashMap]]
 <h1> Problem Description </h1>
 Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in any order.
 
@@ -32,7 +32,10 @@ Probably very inefficient but you could create an arraylist - while the arraylis
 
 coming back to this problem the next day - instead of iterating through values you could iterate through the .get() function on each key and update two variables - one that tracks the key and one that tracks the largest value returned by .get called on that key, then at the end of the loop you add the key to the array and do that k times
 
-came up with a working solution that passes 19/21 test cases but times out - 
+came up with a working solution that passes 19/21 test cases but times out 
 
+after looking at solutions - you're supposed to create an array of lists that stores elements based on their frequency - the index is the frequency and the list at each index contains every num in nums that has that frequency.
+
+Then, for int i = the length of the array, you add values and decrement i until i is equal to the length of the array - k.
 
 <h1> Solution </h1>

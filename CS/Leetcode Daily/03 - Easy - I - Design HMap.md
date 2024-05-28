@@ -1,6 +1,6 @@
 
 **Problem Number: 706
-Relevant Tags: [[02 - DS - O - Hashmap]], [[02 - DS - O - Array]], [[01 - C - I - Hashing]]
+Relevant Tags: [[02 - DS - O - HashMap]], [[02 - DS - O - Array]], [[01 - C - I - Hashing]]
 <h1> Problem Description </h1>
 Design a HashMap without using any built-in hash table libraries.
 

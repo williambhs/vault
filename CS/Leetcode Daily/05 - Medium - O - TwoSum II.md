@@ -1,6 +1,6 @@
 
 **Problem Number: 167
-Relevant Tags: [[01 - Easy - I - Twosum]], [[04 - A - O - Two Pointers]]
+Relevant Tags: [[01 - Easy - O - Twosum]], [[04 - A - O - Two Pointers]]
 <h1> Problem Description </h1>
 Given a 1-indexed array of integers `numbers` that is already **_sorted in non-decreasing order_**, find two numbers such that they add up to a specific `target` number. Let these two numbers be `numbers[index1]` and `numbers[index2]` where `1 <= index1 < index2 <= numbers.length`.
 

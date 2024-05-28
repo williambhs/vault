@@ -8,7 +8,7 @@ V - type of mapped values
 
 **Example Initialization:** Hashtable<String, Integer> dogTable = new Hashtable<>();
 
-**Relevant Tags:** [[02 - DS - O - Hashmap]], [[01 - C - X - Thread Safety]]
+**Relevant Tags:** [[02 - DS - O - HashMap]], [[01 - C - X - Thread Safety]]
 
 -----
 

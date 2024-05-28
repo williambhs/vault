@@ -1,6 +1,6 @@
 
 **Problem Number: 383
-Relevant Tags: [[02 - DS - O - Hashmap]]
+Relevant Tags: [[02 - DS - O - HashMap]]
 <h1> Problem Description </h1>
 
 Given two strings `ransomNote` and `magazine`, return `true` _if_ `ransomNote` _can be constructed by using the letters from_ `magazine` _and_ `false` _otherwise_.
