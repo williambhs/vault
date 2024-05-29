@@ -28,6 +28,8 @@ type = "radio" - allows users to pick one out of a number of options
 used in conjunction with a name attribute, value attribute, and checked attribute - the value attribute indicates the value sent to the server and the checked attribute if set to checked (checked = "checked") will check an option by default once the page loads
 type = "checkbox" - similar to radio, but allows users to select multiple options
 type = "file" - allows users to upload files
+type = "image" - allows the submit button to use an image. The button uses the same attributes as the img element - see [[Images]]
+the source, width, and height go directly after specifying the type. Keep in mind the image acts as the submit button, meaning above you would need to specify an input of a different type.
 
 **maxlength:**
 maxlength = "some number" - limits the number of characters a user can enter into the text field
@@ -48,3 +50,11 @@ The select tag needs a name attribute, just like other types, and the option tag
 
 To create a multiple select box, use the multiple option in the select tag (multiple="multiple")
 
+Each form control should have its own label element to make the form accessible to vision-impaired users. To use the label element, wrap it around the text description and the form input. The label element has a closing tag and should have a for attribute that indicates what control it's a label for - for example < label for = "age">Age: < input type="text" name="age" /> < /label>
+The value the for attribute corresponds to should be that of the id attribute on the form control it's labelling.
+
+**Form Validation**
+When forms on the web give user messages if the form is not filled out correctly, this is known as form validation.
+This is usually done with JS, but HTML5 has introduced validation as well.
+Validating the contents of the form before it is sent to the server reduces the work the server has to do.
+Some examples of form validation are the required attribute, which forces the user to fill out a certain field before submitting.
