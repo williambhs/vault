@@ -28,7 +28,7 @@ type = "radio" - allows users to pick one out of a number of options
 used in conjunction with a name attribute, value attribute, and checked attribute - the value attribute indicates the value sent to the server and the checked attribute if set to checked (checked = "checked") will check an option by default once the page loads
 type = "checkbox" - similar to radio, but allows users to select multiple options
 type = "file" - allows users to upload files
-type = "image" - allows the submit button to use an image. The button uses the same attributes as the img element - see [[Images]]
+type = "image" - allows the submit button to use an image. The button uses the same attributes as the img element - see [[HTML - Images]]
 the source, width, and height go directly after specifying the type. Keep in mind the image acts as the submit button, meaning above you would need to specify an input of a different type.
 
 **maxlength:**
