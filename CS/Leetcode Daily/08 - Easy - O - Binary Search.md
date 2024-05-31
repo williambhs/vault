@@ -1,3 +1,4 @@
+
 **Problem Number: 704
 Relevant Tags: [[04- A - O - Binary Search]]
 <h1> Problem Description </h1>
