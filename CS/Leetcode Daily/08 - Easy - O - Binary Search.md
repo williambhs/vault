@@ -1,5 +1,5 @@
 **Problem Number: 704
-Relevant Tags: [[04- A - I - Binary Search]]
+Relevant Tags: [[04- A - O - Binary Search]]
 <h1> Problem Description </h1>
 Given an array of integers `nums` which is sorted in ascending order, and an integer `target`, write a function to search `target` in `nums`. If `target` exists, then return its index. Otherwise, return `-1`.
 
@@ -27,4 +27,34 @@ You must write an algorithm with `O(log n)` runtime complexity.
 -----
 
 Binary search implementation - binary search algorithm just halves the array until it finds the position of target value
+Not much to say...
 <h1> Solution </h1>
+class Solution {
+
+public int search(int[] nums, int target) {
+
+int low = 0;
+
+int high = nums.length - 1;
+
+  
+
+while (low <= high)
+
+{
+
+int mid = low + (high - low) / 2;
+
+if (nums[mid] == target) return mid;
+
+if (nums[mid] > target) high = mid - 1;
+
+if (nums[mid] < target) low = mid + 1;
+
+}
+
+return -1;
+
+}
+
+}
