@@ -44,4 +44,40 @@ Solution has something to do with binary search - but the array could be rotated
 Means potentially the greatest value could be first
 Unlike traditional binary search you should adjust where to move the mid index based on the value of the left and right pointers because it's sorted but rotated
 Means instead you compare mid to nums[left] and nums[right]
+
+If the middle is more than the right the point of rotation has to be on the right - that means the minimum value is on the right side
+If it's less than or equal to right the pivot must be on the left side, or the minimum element itself
+
+Example arrays to visualize:
+5, 0, 1, 2, 3, 4 - where mid < left
+3, 4, 5, 0, 1, 2 - where mid < right
 <h1> Solution </h1>
+class Solution {
+
+public int findMin(int[] nums) {
+
+int left = 0;
+
+int right = nums.length - 1;
+
+int mid = nums[0];
+
+if (nums.length == 1) return mid;
+
+while (left < right)
+
+{
+
+mid = left + (right - left) / 2;
+
+if (nums[mid] > nums[right]) left = mid + 1;
+
+if (nums[mid] <= nums[right]) right = mid;
+
+}
+
+return nums[left];
+
+}
+
+}
