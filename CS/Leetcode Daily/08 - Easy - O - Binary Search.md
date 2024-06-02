@@ -1,5 +1,5 @@
 **Problem Number: 704
-Relevant Tags: [[04- A - O - Binary Search]]
+Relevant Tags: [[04 - A - O - Binary Search]]
 <h1> Problem Description </h1>
 Given an array of integers `nums` which is sorted in ascending order, and an integer `target`, write a function to search `target` in `nums`. If `target` exists, then return its index. Otherwise, return `-1`.
 
