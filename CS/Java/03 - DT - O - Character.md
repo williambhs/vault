@@ -33,3 +33,7 @@ int val = (int) c;
 val will be equivalent to the unicode value of 'A', which is 65.
 ![[Java Unicode Visual.png]]
 Useful visual - dec represents the unicode value.
+
+An easy way to check if something is a letter is: 
+return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
+assuming c is the character.
