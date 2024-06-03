@@ -14,6 +14,8 @@ Character is the wrapper class for char, used to store a single character, which
 There isn't much information on the chars online but they're a must-know to be able to solve LC problems efficiently. 
 When solving LC problems and working with chars, to convert character arrays to strings you can  create a new String using the String constructor - for example String str = new String(charArray) if you had an array of characters called charArray. Note that you **cannot** use string literals if you want to preserve the characters in the character array - doing this will instead concatenate the charArray with the toString method called on it which is distinct.
 
+Because character is a primitive, you should use == as opposed to .equals when checking if chars are equivalent to each other.
+
 **Other Relevant Methods:**
 
 .compare(char x, char y) - compares two values numerically - this method might not do what you expect it to. It's static and returns the value of the first char minus the second character. For example - Character.compare(3, 7) would return 3 - 7 = -4. It can also be used to compare things like letters to numbers, ie. Character.compare(a, 3) would produce 94 (97-3) as the unicode value of a is 97, and the unicode value of 3 is 3.

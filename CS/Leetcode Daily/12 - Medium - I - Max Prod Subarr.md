@@ -34,63 +34,7 @@ Maybe possible to brute force - create temp variable, then shrink the array afte
 
 After coming back to this having solved [[11 - Medium - O - Max SubArr]], it seems very similar. Instead, however, the product can always be more if curr is negative and [i] is negative, then curr * i will always be greater.
 
+Apparently the solution involves keeping track of both a maximum and minimum product - you multiply the value by both the maximum and index and set the current max to the greatest of both.
+Keep track of the max - if the value is less than 0 then the minimum becomes the max.
+
 <h1> Solution </h1>
-class Solution {
-
-    public String reverseWords(String s) {
-
-        ArrayList<String> list = new ArrayList<String>();
-
-        char[] arr = s.toCharArray();
-
-        String temp = "";
-
-        String str = "";
-
-        for (char c: arr)
-
-        {
-
-            // check if it's a character
-
-            if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) {
-
-                temp += c;
-
-            }
-
-            else
-
-            {
-
-                list.add(temp);
-
-                temp = "";
-
-            }
-
-        }
-
-        list.add(temp);
-
-        for (int i = list.size() - 1; i >= 0; i--)
-
-        {
-
-            if (list.get(i) != "")
-
-            {
-
-                str += list.get(i);
-
-                if (i != 0) str += " ";
-
-            }
-
-        }
-
-        return str;
-
-    }
-
-}

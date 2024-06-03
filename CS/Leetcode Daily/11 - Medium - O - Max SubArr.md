@@ -1,6 +1,6 @@
 
 **Problem Number: 
-Relevant Tags: [[04 - A - I - Kadane's Algorithm]], [[11 - Medium - I - Max Prod Subarr]]
+Relevant Tags: [[04 - A - I - Kadane's Algorithm]], [[12 - Medium - I - Max Prod Subarr]]
 <h1> Problem Description </h1>
 Given an integer array `nums`, find the 
 
