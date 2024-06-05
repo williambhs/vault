@@ -1,6 +1,6 @@
 
 **Problem Number: 
-Relevant Tags: [[04 - A - I - Kadane's Algorithm]], [[12 - Medium - I - Max Prod Subarr]]
+Relevant Tags: [[04 - A - O - Kadane's Algorithm]], [[12 - Medium - I - Max Prod Subarr]]
 <h1> Problem Description </h1>
 Given an integer array `nums`, find the 
 
@@ -34,7 +34,7 @@ subarray
 **Follow up:** If you have figured out the `O(n)` solution, try coding another solution using the **divide and conquer** approach, which is more subtle.
 
 -----
-Use Kadane's - see [[04 - A - I - Kadane's Algorithm]]
+Use Kadane's - see [[04 - A - O - Kadane's Algorithm]]
 
 <h1> Solution </h1>
 class Solution {

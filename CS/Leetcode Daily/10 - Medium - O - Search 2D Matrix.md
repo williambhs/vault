@@ -1,6 +1,6 @@
 
 **Problem Number: 74
-Relevant Tags: [[04 - A - O - Binary Search]], [[01 - C - X - Time Complexity]]
+Relevant Tags: [[04 - A - O - Binary Search]], [[01 - C - O - Time Complexity]]
 <h1> Problem Description </h1>
 You are given an `m x n` integer matrix `matrix` with the following two properties:
 

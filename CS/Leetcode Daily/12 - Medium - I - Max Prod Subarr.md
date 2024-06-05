@@ -1,6 +1,6 @@
 
 **Problem Number: 152
-Relevant Tags: [[04 - A - O - Sliding Window]], [[04 - A - I - Kadane's Algorithm]], [[11 - Medium - O - Max SubArr]]
+Relevant Tags: [[04 - A - O - Sliding Window]], [[04 - A - O - Kadane's Algorithm]], [[11 - Medium - O - Max SubArr]]
 <h1> Problem Description </h1>
 Given an integer array `nums`, find a 
 

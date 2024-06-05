@@ -1,5 +1,5 @@
 
-**Relevant Tags:** [[01 - C - X - Time Complexity]]
+**Relevant Tags:** [[01 - C - O - Time Complexity]]
 
 ----
 
