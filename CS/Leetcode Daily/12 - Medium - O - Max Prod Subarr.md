@@ -38,3 +38,51 @@ Apparently the solution involves keeping track of both a maximum and minimum pro
 Keep track of the max - if the value is less than 0 then the minimum becomes the max.
 
 <h1> Solution </h1>
+class Solution {
+
+    public int maxProduct(int[] nums) {
+
+        int max = nums[0];
+
+        int min = max;
+
+        int ans = min;
+
+  
+
+        for (int i = 1; i < nums.length; i++)
+
+        {
+
+            int num = nums[i];
+
+            if (num < 0)
+
+            {
+
+                int temp = min;
+
+                min = max;
+
+                max = temp;
+
+            }
+
+  
+
+            max = Math.max(num, num * max);
+
+            min = Math.min(num, num * min);
+
+            ans = Math.max(ans, max);
+
+        }
+
+        return ans;
+
+  
+  
+
+    }
+
+}

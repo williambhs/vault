@@ -20,3 +20,5 @@ Two types of stacks:
 2 - dynamic size stack - can grow or shrink. When the stack is full, it will automatically increase in size to allow for the new element, and when empty, the size of the stack will decrease. Implemented using a linked list.
 
 Stacks are useful when the computation has to go back in reverse order since they're a LIFO data structure, meaning the element inserted last is accessed first. For example, in reversing a string, a stack might be useful if you put all letters in a stack and pop them out - because the stack is in LIFO order, the letters will be returned in reverse.
+
+Important to note that when the pop method is run, it will not only return a value but **also** pop the item off the stack. For example, int b = stack.pop() will not only return an int value but also pop the top value off the stack.

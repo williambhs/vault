@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md",
+                "file": "CS/Leetcode Daily/13 - Medium - I - Min Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md",
+                "file": "CS/Leetcode Daily/13 - Medium - I - Min Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md",
+                "file": "CS/Leetcode Daily/13 - Medium - I - Min Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md"
+                "file": "CS/Leetcode Daily/13 - Medium - I - Min Stack.md"
               }
             }
           }
@@ -148,35 +148,37 @@
   },
   "active": "13305c7696c5e033",
   "lastOpenFiles": [
+    "CS/Leetcode Daily/13 - Easy - O - Valid Parentheses.md",
+    "CS/Leetcode Daily/13 - Medium - O - Maximum Gap.md",
+    "CS/Leetcode Daily/00 - Navigation.md",
+    "CS/Leetcode Daily/13 - Medium - I - Min Stack.md",
+    "CS/Leetcode Daily/12 - Medium - I - Reverse Words in Str.md",
+    "CS/Leetcode Daily/12 - Medium - O - Max Prod Subarr.md",
+    "CS/Leetcode Daily/11 - Medium - O - Max SubArr.md",
+    "CS/Leetcode Daily/08 - Easy - O - Binary Search.md",
+    "CS/Leetcode Daily/03 - Easy - I - Design HMap.md",
+    "CS/Leetcode Daily/06 - Medium - X - Valid Sudoku.md",
+    "CS/Leetcode Daily/06 - Medium - O - Longest Consecutive Sequence.md",
+    "CS/Leetcode Daily/06 - Medium - O - Prod of Arr Except Self.md",
+    "CS/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
+    "CS/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
+    "CS/Leetcode Daily/05 - Medium - X - Top K Freq Elems.md",
+    "CS/Leetcode Daily/05 - Medium - O - 3Sum.md",
+    "CS/Leetcode Daily/05 - Medium - O - TwoSum II.md",
+    "CS/Leetcode Daily/04 - Medium - O - Group Anagrams.md",
+    "CS/Leetcode Daily/01 - Easy - O - Twosum.md",
+    "CS/Java/02 - DS - O - Stack.md",
+    "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md",
+    "CS/Java/04 - A - O - Kadane's Algorithm.md",
+    "CS/Java/01 - C - O - Time Complexity.md",
+    "CS/Images/Stack Methods.png",
     "CS/Leetcode Daily/11 - Medium - I - Reverse Words in Str.md",
     "CS/Leetcode Daily/11 - Medium - O - Find Min in Rotated Sorted Array.md",
     "Debate/PR Feedback/vs Sully.md",
     "Debate/PR Feedback",
-    "PW/BC.md",
     "Debate",
-    "CS/Java/02 - DS - O - ArrayList.md",
-    "CS/Java/03 - DT - O - Character.md",
-    "CS/Java/04 - A - I - Kadane's Algorithm.md",
-    "CS/Java/02 - DS - X - Stack.md",
-    "CS/Java/02 - DT - X - Primitives.md",
-    "CS/Java/02 - DS - O - Hashtable.md",
-    "CS/Java/01 - C - X - LIFO.md",
-    "CS/Leetcode Daily/11 - Medium - I - Max Prod Subarr.md",
-    "CS/Leetcode Daily/00 - Navigation.md",
-    "CS/Leetcode Daily/11 - Medium - O - Max SubArr.md",
-    "CS/Leetcode Daily/10 - Medium - O - Search 2D Matrix.md",
-    "CS/Leetcode Daily/10 - Medium - I - Find Min in Rotated Sorted Array.md",
-    "CS/Leetcode Daily/09 - Medium - O - Longest Consecutive Seq.md",
-    "CS/Web Dev/CSS - Pseudo-Class Selectors.md",
-    "CS/Web Dev/CSS - External Style Sheets.md",
-    "CS/Web Dev/General - I - XML.md",
     "CS/Images/Useful HTML entities.png",
-    "CS/Java/04 - A - O - Binary Search.md",
-    "CS/Web Dev/HTML - Validation.md",
     "PW/bc pass.png",
-    "CS/Web Dev/CSS - Selectors.md",
-    "CS/Web Dev/General - SVG.md",
-    "CS/Web Dev/HTML - Entities.md",
     "PW",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Example Image.png",

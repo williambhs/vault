@@ -38,6 +38,71 @@ Also going to use a hashmap to make this a little more bearable.
 Ok it seems it is actually not so simple, because you might have something like "({})" which is valid because the curly brackets are closed after the parenthesis. That means in the stack all you have to keep track of is if there are more opening brackets than closing brackets, and at the end return if the stack is empty or not. 
 
 New solution:
-1 - push element onto stack if empty
-2 - if not empty, check if stack contains opening bracket 
+1 - push element onto stack if opening bracket
+2 - if not opening bracket - peek the top element of the stack and check if it's equal to the equivalent closing bracket through hashmap
+
+Ok this took me like 25 minutes but I actually like the solution a lot!
 <h1> Solution </h1>
+class Solution {
+
+    public boolean isValid(String s) {
+
+        if (s.length() == 1) return false;
+
+  
+
+        Stack<Character> stack = new Stack<>();
+
+        HashMap<Character, Character> map = new HashMap<>();
+
+        map.put('(' ,')');
+
+        map.put('[',']');
+
+        map.put('{','}');
+
+  
+
+        for (int i = 0; i < s.length(); i++)
+
+        {
+
+            // if opening
+
+            if (map.containsKey(s.charAt(i)) || stack.isEmpty())
+
+            {
+
+                if (map.containsValue(s.charAt(i))) return false;
+
+                stack.push(s.charAt(i));
+
+            }
+
+  
+
+            // if closing
+
+            else
+
+            {
+
+                if (map.get(stack.pop()) != s.charAt(i))
+
+                {
+
+                    return false;
+
+                }
+
+            }
+
+  
+
+        }
+
+        return stack.isEmpty();
+
+    }
+
+}
