@@ -47,5 +47,72 @@ The problem is trying to get a solution that can keep track of the minimum value
 
 There's a very simple solution just using two stacks - one that keeps track of the minimum value as well as one that performs normal operations.
 
-When you push an element into the stack - check if it's the minimum - if it is push it to the top, if not push the current minimum element of the stack onto the top.
+When you push an element into the stack - check if it's the minimum - if it is push it to the top, if not push the current minimum element of the stack onto the top, since the depth of the stack has increased by one but the minimum remains lower in the stack.
 <h1> Solution </h1>
+class MinStack {
+
+  
+
+private Stack<Integer> stack;
+
+private Stack<Integer> minStack;
+
+  
+
+public MinStack() {
+
+stack = new Stack<>();
+
+minStack = new Stack<>();
+
+}
+
+public void push(int val) {
+
+stack.push(val);
+
+int min = minStack.empty() ? val : Math.min(minStack.peek(), val);
+
+minStack.push(min);
+
+}
+
+public void pop() {
+
+stack.pop();
+
+minStack.pop();
+
+}
+
+public int top() {
+
+return stack.peek();
+
+}
+
+public int getMin() {
+
+return minStack.peek();
+
+}
+
+}
+
+  
+
+/**
+
+* Your MinStack object will be instantiated and called as such:
+
+* MinStack obj = new MinStack();
+
+* obj.push(val);
+
+* obj.pop();
+
+* int param_3 = obj.top();
+
+* int param_4 = obj.getMin();
+
+*/
