@@ -1,6 +1,6 @@
 
 **Problem Number: 155
-Relevant Tags: [[13 - Medium - I - Min Stack]]
+Relevant Tags: [[14 - Medium - I - Min Stack]], [[01 - C - O - Ternary Operator]]
 <h1> Problem Description </h1>
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
@@ -42,5 +42,10 @@ minStack.getMin(); // return -2
 -----
 Use an arraylist - to get min to run in O(1) time, just track the min whenever you add value, check if it's less than the min.
 
+Nevermind - this will let you get the min in some cases, but can't account for popping items off the stack. Instead - create a list/array to track the current minimum as well.
+The problem is trying to get a solution that can keep track of the minimum value in constant time instead of O(n) time where you need to loop through the array/list to get the minimum value.
 
+There's a very simple solution just using two stacks - one that keeps track of the minimum value as well as one that performs normal operations.
+
+When you push an element into the stack - check if it's the minimum - if it is push it to the top, if not push the current minimum element of the stack onto the top.
 <h1> Solution </h1>
