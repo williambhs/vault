@@ -1,7 +1,7 @@
 **Goal is to do 2-5 leetcode problems daily while learning concepts - try to do more on weekends.**
-**Total Problems Completed:** 25
+**Total Problems Completed:** 26
 **Easy:** 11
-**Medium:** 14
+**Medium:** 15
 
 <h1> Day # - Difficulty - Status - Problem Name </h1>
 

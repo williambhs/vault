@@ -53,4 +53,68 @@ Very confusing problem - read up on https://en.wikipedia.org/wiki/Reverse_Polish
 
 ** nvm use integerparseint instead, way more convenient
 
+I solved this in like 20 minutes - guess I am getting better at leetcode?
 <h1> Solution </h1>
+class Solution {
+
+    public int evalRPN(String[] tokens) {
+
+        Stack<Integer> stack = new Stack<Integer>();
+
+        for (String s: tokens) {
+
+            if (s.equals("-")) {
+
+                int top = stack.pop();
+
+                int bot = stack.pop();
+
+                stack.push(bot - top);
+
+            }
+
+  
+
+            else if (s.equals("+")) {
+
+                int top = stack.pop();
+
+                int bot = stack.pop();
+
+                stack.push(bot + top);
+
+            }
+
+  
+
+            else if (s.equals("*")) {
+
+                int top = stack.pop();
+
+                int bot = stack.pop();
+
+                stack.push(bot * top);
+
+            }
+
+            else if (s.equals("/")) {
+
+                int top = stack.pop();
+
+                int bot = stack.pop();
+
+                stack.push(bot / top);
+
+            }  
+
+  
+
+            else {stack.push(Integer.parseInt(s));}
+
+        }
+
+        return stack.peek();
+
+    }
+
+}
