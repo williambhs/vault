@@ -45,6 +45,12 @@ Evaluate the expression. Return _an integer that represents the value of the ex
 - `1 <= tokens.length <= 104`
 - `tokens[i]` is either an operator: `"+"`, `"-"`, `"*"`, or `"/"`, or an integer in the range `[-200, 200]`.
 -----
+Very confusing problem - read up on https://en.wikipedia.org/wiki/Reverse_Polish_notation
 
+1 - create stack of chars, then call tochararray on each string in tokens to check if they are a number
+2 - if number - push, else val1 = pop, val2 = second pop, then val2 should run the expression on val1 with the result being pushed
+3 - return stack.peek()
+
+** nvm use integerparseint instead, way more convenient
 
 <h1> Solution </h1>

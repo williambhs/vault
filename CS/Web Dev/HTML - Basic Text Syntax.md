@@ -1,3 +1,4 @@
+
 HTML uses tags to display text and images contained in <> symbols - usually you wrap text with tags, starting with a beginning tag and ending with a closing tag. Closing tags usually contain a "/".
 
 For example - <p>&lt;h1&gt; header &lt;/h1&gt;</p>
