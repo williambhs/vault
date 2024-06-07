@@ -19,5 +19,6 @@ Given `n` pairs of parentheses, write a function to _generate all combination
 - `1 <= n <= 8`
 
 -----
-
+alright apparently there's like 30 other problems to do before this one so I'll come back to this
+https://leetcode.com/problems/generate-parentheses/solutions/5202882/monotonic-stack/
 <h1> Solution </h1>
