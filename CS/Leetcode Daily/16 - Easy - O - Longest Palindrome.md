@@ -32,4 +32,63 @@ Thinking about using a hashmap - adding everything with getordefault(0)
 then for each key - if the value is divisible y 2 add the key value/2 times to a string.
 finally reverse the string, add it to itself, and return the result as the answer.
 
+Ok nevermind this is way easier than I thought you only have to return the length of the palindrome.
 <h1> Solution </h1>
+class Solution {
+
+    public int longestPalindrome(String s) {
+
+  
+
+        if (s.length() == 1) return 1;
+
+  
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        int ans = 0;
+
+  
+  
+
+        for (int i = 0; i < s.length(); i++) {
+
+            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
+
+        }
+
+  
+
+        int size = map.size();
+
+        if (map.size() == 1) {
+
+            for (Character c : map.keySet()){
+
+                return map.get(c);
+
+            }
+
+        }
+
+  
+
+        boolean hasOdd = false;
+
+        for (Character c : map.keySet()) {
+
+            ans = (map.get(c) % 2 == 0) ? ans + map.get(c) : ans + map.get(c) - 1;
+
+            if (map.get(c) % 2 != 0) hasOdd = true;      
+
+        }
+
+  
+
+        if (hasOdd) ans++;
+
+        return ans;
+
+    }
+
+}

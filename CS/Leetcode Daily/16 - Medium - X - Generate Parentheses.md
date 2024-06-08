@@ -1,6 +1,6 @@
 
 **Problem Number: 22
-Relevant Tags: [[02 - DS - O - Stack]]
+Relevant Tags: [[02 - DS - O - Stack]], [[01 - C - X - Recursion]]
 <h1> Problem Description </h1>
 Given `n` pairs of parentheses, write a function to _generate all combinations of well-formed parentheses_.
 
