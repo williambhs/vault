@@ -38,7 +38,58 @@ Return _an array_ `ans` _of length_ `nums1.length` _such that_ `ans[i]` _
 
 -----
 Obviously solvable using nested loops - iterate through each number in nums2 and check if it's greater than nums[i].
-Finding a solution in O(nums1.length + nums2.length) is the hard part.
+Finding a solution in O(nums1.length + nums2.length) is the hard part - need to come back to this later.
 
 <h1> Solution </h1>
 
+class Solution {
+
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+
+        int[] ans = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++)
+
+        {
+
+            int curr = nums1[i];
+
+            int index = -1;
+
+            for (int j = 0; j < nums2.length; j++) {
+
+                if (nums2[j] == curr) index = j;
+
+            }
+
+  
+
+            for (int k = index; k < nums2.length; k++)
+
+            {
+
+                if (nums2[k] > curr) {
+
+                ans[i] = nums2[k];
+
+                break;
+
+                }
+
+  
+
+                else if (k == nums2.length - 1) {
+
+                    ans[i] = -1;
+
+                }
+
+            }
+
+        }
+
+        return ans;
+
+    }
+
+}
