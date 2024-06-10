@@ -1,6 +1,6 @@
 
 **Problem Number: 496
-Relevant Tags:
+Relevant Tags: [[02 - DS - O - Stack]], [[02 - DS - Monotonic Stack]]
 <h1> Problem Description </h1>
 The **next greater element** of some element `x` in an array is the **first greater** element that is **to the right** of `x` in the same array.
 
@@ -40,6 +40,11 @@ Return _an array_ `ans` _of length_ `nums1.length` _such that_ `ans[i]` _
 Obviously solvable using nested loops - iterate through each number in nums2 and check if it's greater than nums[i].
 Finding a solution in O(nums1.length + nums2.length) is the hard part - need to come back to this later.
 
+Coming back to this problem now - the fast solution uses a monotonic stack to process elements (see: [[02 - DS - Monotonic Stack]]) 
+The solution is to use a monotonic stack combined with a hashmap. You iterate through nums2 and create a monotonic stack - whenever a greater element is found, you keep popping items off the stack that are less than it because that item is now the greatest element on the right in that position. Then, for each item you pop off, you add it to the map to store the relationship.
+The elements remaining in the stack have no greater element to the right, and at the end of the loop the map will be filled with elements from nums2 as well as the next greater element in nums2.
+
+Finally, since all elements in nums1 are in nums2, you use the hashmap and add the value to a new array.
 <h1> Solution </h1>
 
 class Solution {
@@ -89,6 +94,55 @@ class Solution {
         }
 
         return ans;
+
+    }
+
+}
+
+**NEW Solution:**
+public class Solution {
+
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        Stack<Integer> stack = new Stack<>();
+
+  
+
+        for (int i = 0; i < nums2.length; i++) {
+
+            while (!stack.isEmpty() && nums2[i] > stack.peek()) {
+
+                map.put(stack.pop(), nums2[i]);
+
+            }
+
+            stack.push(nums2[i]);
+
+        }
+
+  
+
+        while (!stack.isEmpty()) {
+
+            map.put(stack.pop(), -1);
+
+        }
+
+  
+
+        int[] result = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++) {
+
+            result[i] = map.get(nums1[i]);
+
+        }
+
+  
+
+        return result;
 
     }
 

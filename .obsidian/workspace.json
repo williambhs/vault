@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Leetcode Daily/16 - Medium - X - Daily Temperatures.md",
+                "file": "CS/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Leetcode Daily/16 - Easy - I - Next Greater Element I.md",
+                "file": "CS/Leetcode Daily/16 - Easy - O - Next Greater Element I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77e4a1b8988f3d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Web Dev/CSS - Flexbox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Leetcode Daily/16 - Easy - I - Next Greater Element I.md",
+                "file": "CS/Web Dev/CSS - Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Leetcode Daily/16 - Easy - I - Next Greater Element I.md",
+                "file": "CS/Web Dev/CSS - Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Leetcode Daily/16 - Easy - I - Next Greater Element I.md"
+                "file": "CS/Web Dev/CSS - Flexbox.md"
               }
             }
           }
@@ -159,19 +171,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc8cb6dd28144ce",
+  "active": "77e4a1b8988f3d95",
   "lastOpenFiles": [
-    "CS/Leetcode Daily/16 - Easy - O - Longest Palindrome.md",
-    "CS/Leetcode Daily/16 - Easy - I - Next Greater Element I.md",
-    "CS/Leetcode Daily/16 - Medium - X - Generate Parentheses.md",
-    "CS/Web Dev/CSS - Flexbox.md",
-    "CS/Web Dev/CSS - External Style Sheets.md",
-    "CS/Web Dev/General - X - XML.md",
-    "CS/Web Dev/CSS - Selectors.md",
-    "CS/Web Dev/HTML - Validation.md",
-    "CS/Leetcode Daily/16 - Medium - X - Daily Temperatures.md",
     "CS/Web Dev/HTML - Padding, Margin.md",
     "CS/Web Dev/HTML - Rel, Link, HREF.md",
+    "CS/Web Dev/HTML - Validation.md",
+    "CS/Web Dev/CSS - External Style Sheets.md",
+    "CS/Web Dev/CSS - Flexbox.md",
+    "CS/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
+    "CS/Leetcode Daily/16 - Medium - X - Generate Parentheses.md",
+    "CS/Leetcode Daily/16 - Easy - O - Next Greater Element I.md",
+    "CS/Java/02 - DS - Monotonic Stack.md",
+    "CS/Leetcode Daily/16 - Easy - O - Longest Palindrome.md",
+    "CS/Leetcode Daily/15 - Medium - O - Eval RPN.md",
+    "CS/Leetcode Daily/13 - Medium - O - Maximum Gap.md",
+    "CS/Java/00 - Navigation.md",
+    "CS/Java/02 - DS - O - Stack.md",
+    "CS/Images/Stack Methods.png",
+    "CS/Images/Java Unicode Visual.png",
+    "CS/Images/Useful HTML entities.png",
+    "CS/Images/Example Alt Text.png",
+    "CS/Images/Example Image.png",
+    "CS/Images/Hashing Infographic.png",
+    "CS/Web Dev/General - X - XML.md",
+    "CS/Web Dev/CSS - Selectors.md",
     "CS/Web Dev/HTML - Basic Text Syntax.md",
     "CS/Web Dev/HTML - Content Models.md",
     "CS/Web Dev/HTML - Entities.md",
@@ -182,23 +205,12 @@
     "CS/Leetcode Daily/00 - Navigation.md",
     "CS/Java/04 - A - O - Sliding Window.md",
     "CS/Java/04 - A - O - Kadane's Algorithm.md",
-    "CS/Java/01 - C - X - Recursion.md",
-    "CS/Java/00 - Navigation.md",
-    "CS/Java/01 - C - X - LIFO.md",
-    "CS/Java/02 - DS - O - HashMap.md",
-    "CS/Java/03 - DT - O - String.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "CS/Images/Useful HTML entities.png",
-    "CS/Images/Stack Methods.png",
     "Debate/PR Feedback",
     "Debate",
     "PW/bc pass.png",
     "PW",
-    "CS/Images/Java Unicode Visual.png",
-    "CS/Images/Example Image.png",
-    "CS/Images/Example Alt Text.png",
-    "CS/Images/Hashing Infographic.png",
     "CS/Images/HashSet method summary.png",
     "CS/Images/hash img.png",
     "CS/Images",
