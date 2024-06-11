@@ -62,3 +62,11 @@ space-evenly makes equal space around all items and edges. Each gap between item
 space-around also makes equal space around items, but edge spaces are half the size of spaces between items - that means there's more space between the item and container edges vs space between items. To be exact, the space between items is 2x as much as the space between the items and the containers edges. For example, if a container has a margin of 50px between the containers edges and the items, the space between the items will be 50x * 2 or 100px for space-around, but 50px all around for space-evenly.
 
 Thus, space-around should be used when you want to emphasize the separation between items while keep them close to the edges of the containers edges whereas space-evenly should be used if you want equal spacing everywhere.
+
+Flexbox shorthand - 
+flexbox: flex-grow flex-shrink flex-basis
+for example: 
+flexbox: 1 1 auto
+would set flex-grow to 1, flex-shrink to 1, and flex-bass to auto.
+
+flex-grow: specifies how much a flex item should grow compare to the other items when extra space is available
