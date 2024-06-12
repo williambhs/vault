@@ -36,4 +36,43 @@ Given `num`, the **array-form** of an integer, and an integer `k`, return _
 First create an int k that's an int that represents the value of the k + num.
 Then create a string with toString() and make another loop - while i < the length of the string, or the number of digits, you add to the arraylist the value % 10 ^ (nums.length - i)
 
+Apparently this solution doesn't work due to integer overflow. Instead, you have to just perform the operation manually due to integer overflow for numbers that are too large.
+
 <h1> Solution </h1>
+class Solution {
+
+    public List<Integer> addToArrayForm(int[] num, int k) {
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+        int carry = k;
+
+  
+
+        for (int i = num.length - 1; i >= 0; i--) {
+
+            list.add((num[i] + carry) % 10);
+
+            carry = ((carry + num[i]) / 10);
+
+        }
+
+        while (carry != 0) {
+
+            list.add(carry % 10);
+
+            carry /= 10;
+
+        }
+
+  
+
+        Collections.reverse(list);
+
+        return list;
+
+  
+
+    }
+
+}

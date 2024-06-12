@@ -30,3 +30,7 @@ just check the documentation lmao
 .toArray() - returns an array containing all elements - works with objects like strings, but not primitives like ints (similarly to the asList() method for arrays - [[02 - DS - O - Array]])
 Example implementation 
 trimToSize() - this is kinda useless, but if for some reason since you can specify an initial capacity, you can trim the arraylist of all the empty values
+
+Some other static methods that are useful include:
+Collections.reverse(list);
+Collections.sort(list);
