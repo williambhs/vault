@@ -44,4 +44,20 @@ This means if you use == on string literals it will return true, but not if you 
 .toUpperCase()
 .toLowerCase()
 
+**IMPORTANT!!**
+Do NOT ever concatenate strings within loops - instead use stringbuilder. This is much more memory efficient as strings objects are immutable which means in loops a string object is created each time if you concatenate. Stringbuilder, however is mutable - that means instead of :
 
+String result = "";
+(in loop)
+result += i;
+
+you should do:
+
+StringBuilder str = new StringBuilder();
+(in loop)
+str.append(i);
+result = str.toString();
+
+
+Stringbuilder also has a built in reverse method: documentation is here
+[StringBuilder (Java Platform SE 8 ) (oracle.com)](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html)
