@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java/01 - C - I - Debugging (VSCode).md",
+                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49e6d98a0edd414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1677b99a73f21d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java/01 - C - I - Debugging (VSCode).md",
+                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java/01 - C - I - Debugging (VSCode).md",
+                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java/01 - C - I - Debugging (VSCode).md"
+                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md"
               }
             }
           }
@@ -195,22 +219,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0748723501ce0983",
+  "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
+    "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
+    "CS/Competitive Programming/Misc - FastReader Documentation.md",
+    "CS/Java/01 - C - X - Debugging (VSCode).md",
+    "CS/Java/Untitled.md",
     "CS/Java/01 - C - I - Bucket.md",
     "CS/Java/00 - Navigation.md",
-    "CS/Java/01 - C - I - Debugging (VSCode).md",
     "CS/Competitive Programming/Leetcode Daily/20 - Easy - O - Min Num Moves to Seat Everyone.md",
     "CS/Java/02 - DS - O - ArrayList.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Easy - X - Valid Perfect Square.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Removing Stars From Str.md",
     "CS/Java/03 - DT - O - String.md",
     "CS/Competitive Programming/Codeforces",
     "CS/Competitive Programming/Leetcode Daily",
     "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Valid Sudoku.md",
-    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
     "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
     "CS/Competitive Programming/Leetcode Daily/18 - Easy - O - Height Checker.md",
     "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Implement Queue using Stacks.md",
@@ -222,9 +249,6 @@
     "CS/Competitive Programming/Leetcode Daily/01 - Easy - O - Twosum.md",
     "CS/Web Dev/CSS - Flexbox.md",
     "CS/Java/01 - C - O - Ternary Operator.md",
-    "CS/Java/04 - A - O - Sliding Window.md",
-    "CS/Competitive Programming/Leetcode Daily/06 - Medium - O - Prod of Arr Except Self.md",
-    "CS/Web Dev/HTML - Validation.md",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
