@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md"
+                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md"
               }
             }
           }
@@ -219,19 +219,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1677b99a73f21d7a",
+  "active": "4b4b26cb0b1825b5",
   "lastOpenFiles": [
+    "CS/Images/Linked List Diagram.png",
     "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
     "CS/Competitive Programming/Misc - FastReader Documentation.md",
+    "CS/Java/02 - DS - O - ArrayList.md",
+    "CS/Java/02 - DS - X.md",
+    "CS/Java/02 - DS - O - HashSet.md",
+    "CS/Java/01 - C -.md",
+    "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
+    "CS/Competitive Programming/Leetcode Daily/04 - Easy - O - Valid Palindrome.md",
+    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
     "CS/Java/01 - C - X - Debugging (VSCode).md",
-    "CS/Java/Untitled.md",
     "CS/Java/01 - C - I - Bucket.md",
     "CS/Java/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Easy - O - Min Num Moves to Seat Everyone.md",
-    "CS/Java/02 - DS - O - ArrayList.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Easy - X - Valid Perfect Square.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Removing Stars From Str.md",
     "CS/Java/03 - DT - O - String.md",
@@ -244,11 +249,6 @@
     "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Add to Arr-Form of Int.md",
     "CS/Java/02 - DS - O - Array.md",
     "CS/Java/02 - DS - O - Hashtable.md",
-    "CS/Web Dev/CSS - External Style Sheets.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Relative Sort Array.md",
-    "CS/Competitive Programming/Leetcode Daily/01 - Easy - O - Twosum.md",
-    "CS/Web Dev/CSS - Flexbox.md",
-    "CS/Java/01 - C - O - Ternary Operator.md",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
