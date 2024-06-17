@@ -1,6 +1,6 @@
 
 **Problem Number: 633
-Relevant Tags: [[23 - Easy - Valid Perfect Square]]
+Relevant Tags: [[23 - Easy - O - Valid Perfect Square]]
 <h1> Problem Description </h1>
 
 
