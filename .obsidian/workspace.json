@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md"
+                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md"
               }
             }
           }
@@ -219,20 +219,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b4b26cb0b1825b5",
+  "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
-    "CS/Images/Linked List Diagram.png",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
+    "CS/Competitive Programming/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Merge Sorted LL's.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Isomorphic Strs.md",
+    "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
     "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
+    "PW/BC.md",
+    "README.md",
+    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
+    "CS/Images/Linked List Diagram.png",
     "CS/Competitive Programming/Misc - FastReader Documentation.md",
     "CS/Java/02 - DS - O - ArrayList.md",
     "CS/Java/02 - DS - X.md",
     "CS/Java/02 - DS - O - HashSet.md",
     "CS/Java/01 - C -.md",
-    "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
     "CS/Competitive Programming/Leetcode Daily/04 - Easy - O - Valid Palindrome.md",
-    "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
     "CS/Java/01 - C - X - Debugging (VSCode).md",
     "CS/Java/01 - C - I - Bucket.md",
     "CS/Java/00 - Navigation.md",
@@ -244,11 +250,6 @@
     "CS/Competitive Programming/Leetcode Daily",
     "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Valid Sudoku.md",
     "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
-    "CS/Competitive Programming/Leetcode Daily/18 - Easy - O - Height Checker.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Implement Queue using Stacks.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Add to Arr-Form of Int.md",
-    "CS/Java/02 - DS - O - Array.md",
-    "CS/Java/02 - DS - O - Hashtable.md",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
