@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
+                "file": "CS/Java/03 - DT - O - String.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
+                "file": "CS/Java/03 - DT - O - String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
+                "file": "CS/Java/03 - DT - O - String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md"
+                "file": "CS/Java/03 - DT - O - String.md"
               }
             }
           }
@@ -221,10 +221,17 @@
   },
   "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
+    "CS/Java/03 - DT - X - Long.md",
+    "CS/Java/03 - DT - O - String.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - Valid Perfect Square.md",
+    "CS/Java/01 - C -.md",
+    "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Sum of Square Nums.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Medium - X - Reorder List.md",
+    "CS/Competitive Programming/Misc - FastReader Documentation.md",
     "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - Remove Duplicates from Sorted List.md",
-    "CS/Competitive Programming/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Remove Duplicates from Sorted List.md",
     "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Merge Sorted LL's.md",
+    "CS/Competitive Programming/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
     "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Isomorphic Strs.md",
     "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
     "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
@@ -232,24 +239,17 @@
     "README.md",
     "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
     "CS/Images/Linked List Diagram.png",
-    "CS/Competitive Programming/Misc - FastReader Documentation.md",
     "CS/Java/02 - DS - O - ArrayList.md",
     "CS/Java/02 - DS - X.md",
     "CS/Java/02 - DS - O - HashSet.md",
-    "CS/Java/01 - C -.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
     "CS/Competitive Programming/Leetcode Daily/04 - Easy - O - Valid Palindrome.md",
     "CS/Java/01 - C - X - Debugging (VSCode).md",
     "CS/Java/01 - C - I - Bucket.md",
     "CS/Java/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/20 - Easy - O - Min Num Moves to Seat Everyone.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Easy - X - Valid Perfect Square.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Removing Stars From Str.md",
-    "CS/Java/03 - DT - O - String.md",
     "CS/Competitive Programming/Codeforces",
     "CS/Competitive Programming/Leetcode Daily",
-    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Valid Sudoku.md",
-    "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
