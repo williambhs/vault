@@ -1,6 +1,6 @@
 
 **Problem Number: 143
-Relevant Tags:
+Relevant Tags: [[02 - DS - X - Linked List]]
 <h1> Problem Description </h1>
 
 
