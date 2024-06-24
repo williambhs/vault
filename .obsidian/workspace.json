@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CPP/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CPP/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CPP/00 - Navigation.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CPP/00 - Navigation.md"
+                "file": "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md"
               }
             }
           }
@@ -197,8 +197,19 @@
   },
   "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
-    "CS/Competitive Programming/Leetcode Daily/29 - Medium - X - Subarr Sum Equals K.md",
+    "CS/Java/04 - A - O - Prefix Sum.md",
+    "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Running Sum of 1D array.md",
+    "CS/Java/04 - A - O - Kadane's Algorithm.md",
+    "CS/Java/04 - A - O - Binary Search.md",
+    "CS/Java/04 - A - O - Sliding Window.md",
+    "CS/Java/04 - A - O - Two Pointers.md",
+    "CS/Competitive Programming/Leetcode Daily/01 - Easy - O - Twosum.md",
+    "CS/Competitive Programming/Leetcode Daily/29 - Medium - O - Subarr Sum Equals K.md",
+    "CS/Images/terrible pfixsum diagram I made.png",
     "CS/Competitive Programming/Leetcode Daily/28 - Medium - O - Count Num Nice SubArr.md",
+    "CS/CPP/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/27 - Medium - O - Grumpy Bookstore Owner.md",
     "CS/Competitive Programming/Leetcode Daily/26 - Medium - O - Odd Even Linked List.md",
     "CS/Competitive Programming/Leetcode Daily/25 - Easy - O - Intersection of two LLs.md",
@@ -209,20 +220,10 @@
     "CS/CPP/00 - Input Output.md",
     "CS/CPP/0 - Misc - Input Output.md",
     "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Java/04 - A - O - Sliding Window.md",
-    "CS/CPP/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/25 - Easy - X - Invert Binary Tree.md",
     "CS/Competitive Programming/Leetcode Daily/15 - Medium - O - Eval RPN.md",
     "CS/Java/02 - DT - X - Primitives.md",
     "CS/Java/02 - DS - X - Tree.md",
-    "CS/Java/02 - DS.md",
-    "CS/Java/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/24 - Medium - I - Most Profit Assigning Work.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Valid Perfect Square.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Medium - X - Reorder List.md",
-    "CS/Java/04 - A - O - Two Pointers.md",
-    "CS/Java/02 - DS - O - HashMap.md",
     "Untitled.canvas",
     "CS/CPP",
     "CS/Images/Linked List Diagram.png",
@@ -240,7 +241,6 @@
     "PW/bc pass.png",
     "PW",
     "CS/Images/HashSet method summary.png",
-    "CS/Images/hash img.png",
     "CS/Images",
     "CS/Competitive Programming",
     "CS/Java"
