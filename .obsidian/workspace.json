@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
+                "file": "CS/CPP/00 - Navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
+                "file": "CS/CPP/00 - Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
+                "file": "CS/CPP/00 - Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md"
+                "file": "CS/CPP/00 - Navigation.md"
               }
             }
           }
@@ -197,11 +197,22 @@
   },
   "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
+    "CS/CPP/0 - Misc - Input Output.md",
+    "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Java/04 - A - O - Sliding Window.md",
+    "CS/CPP/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/25 - Easy - X - Invert Binary Tree.md",
+    "CS/Competitive Programming/Leetcode Daily/15 - Medium - O - Eval RPN.md",
+    "CS/Java/02 - DT - X - Primitives.md",
+    "CS/Java/02 - DS - X - Tree.md",
+    "CS/Java/02 - DS.md",
+    "CS/Java/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/24 - Medium - I - Most Profit Assigning Work.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Valid Perfect Square.md",
+    "CS/Competitive Programming/Leetcode Daily/23 - Medium - X - Reorder List.md",
     "CS/Java/04 - A - O - Two Pointers.md",
     "CS/Java/02 - DS - O - HashMap.md",
-    "CS/Competitive Programming/Leetcode Daily/24 - Medium - X - Most Profit Assigning Work.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Medium - X - Reorder List.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Valid Perfect Square.md",
     "CS/Java/02 - DS - O - Array.md",
     "CS/Java/01 - C - I - IO (Input Output).md",
     "Untitled.canvas",
@@ -214,17 +225,6 @@
     "PW/BC.md",
     "CS/Java/03 - DT - O - String.md",
     "CS/Java/03 - DT - X - Long.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - Valid Perfect Square.md",
-    "CS/Java/01 - C -.md",
-    "CS/Competitive Programming/Misc - FastReader Documentation.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Remove Duplicates from Sorted List.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Merge Sorted LL's.md",
-    "CS/Competitive Programming/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Isomorphic Strs.md",
-    "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
-    "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
-    "README.md",
     "CS/Images/Linked List Diagram.png",
     "CS/Competitive Programming/Codeforces",
     "CS/Competitive Programming/Leetcode Daily",
