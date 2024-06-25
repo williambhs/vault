@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
+                "file": "CS/CPP/07 - Defining Namespaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
+                "file": "CS/CPP/07 - Defining Namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
+                "file": "CS/CPP/07 - Defining Namespaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md"
+                "file": "CS/CPP/07 - Defining Namespaces.md"
               }
             }
           }
@@ -197,8 +197,12 @@
   },
   "active": "1677b99a73f21d7a",
   "lastOpenFiles": [
-    "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Find Pivot Index.md",
+    "CS/CPP/02 - Header Files.md",
+    "CS/CPP/07 - Defining Namespaces.md",
+    "CS/CPP/06 - Postfix Increment Decrement.md",
+    "CS/CPP/02 - Preprocessor Directives.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
+    "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Find Pivot Index.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Medium - O - Max Consecutive Ones III.md",
     "CS/Competitive Programming/Leetcode Daily/05 - Medium - O - TwoSum II.md",
     "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
@@ -219,10 +223,6 @@
     "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
     "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
     "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Merge Sorted LL's.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Remove Duplicates from Sorted List.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Valid Perfect Square.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Medium - X - Reorder List.md",
-    "CS/Competitive Programming/Leetcode Daily/25 - Easy - O - Intersection of two LLs.md",
     "CS/Images/terrible pfixsum diagram I made.png",
     "Untitled.canvas",
     "CS/CPP",
