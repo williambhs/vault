@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CPP/07 - Defining Namespaces.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Smallest Range II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "529a45998627fd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CPP/07 - Defining Namespaces.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CPP/07 - Defining Namespaces.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CPP/07 - Defining Namespaces.md"
+                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md"
               }
             }
           }
@@ -195,17 +207,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1677b99a73f21d7a",
+  "active": "529a45998627fd1d",
   "lastOpenFiles": [
-    "CS/CPP/02 - Header Files.md",
+    "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Copy List with Random Pointer.md",
+    "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Max Consecutive Ones.md",
+    "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
+    "CS/Competitive Programming/Leetcode Daily/10 - Medium - O - Search 2D Matrix.md",
+    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
+    "CS/Competitive Programming/Leetcode Daily/04 - Medium - O - Group Anagrams.md",
+    "CS/Competitive Programming/Leetcode Daily/03 - Easy - I - Design HMap.md",
+    "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Smallest Range II.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/32 - Easy - O - Smallest Range I.md",
+    "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
     "CS/CPP/07 - Defining Namespaces.md",
+    "CS/CPP/08 - Switch Statements.md",
+    "CS/CPP/02 - Header Files.md",
     "CS/CPP/06 - Postfix Increment Decrement.md",
     "CS/CPP/02 - Preprocessor Directives.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Find Pivot Index.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Medium - O - Max Consecutive Ones III.md",
     "CS/Competitive Programming/Leetcode Daily/05 - Medium - O - TwoSum II.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/28 - Medium - O - Count Num Nice SubArr.md",
     "CS/Competitive Programming/Leetcode Daily/29 - Medium - O - Subarr Sum Equals K.md",
     "CS/Java/04 - A - O - Kadane's Algorithm.md",
@@ -213,16 +235,6 @@
     "CS/Competitive Programming/Leetcode Daily/12 - Medium - O - Max Prod Subarr.md",
     "CS/Competitive Programming/Leetcode Daily/13 - Easy - O - Valid Parentheses.md",
     "CS/Competitive Programming/Leetcode Daily/12 - Medium - I - Reverse Words in Str.md",
-    "CS/Competitive Programming/Leetcode Daily/07 - Medium - O - Longest SubStr no repeats.md",
-    "CS/Competitive Programming/Leetcode Daily/08 - Easy - O - Binary Search.md",
-    "CS/Competitive Programming/Leetcode Daily/09 - Medium - O - Longest Consecutive Seq.md",
-    "CS/Competitive Programming/Leetcode Daily/16 - Easy - O - Longest Palindrome.md",
-    "CS/Competitive Programming/Leetcode Daily/13 - Medium - O - Maximum Gap.md",
-    "CS/Competitive Programming/Leetcode Daily/14 - Medium - O - Min Stack.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Isomorphic Strings.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Sort Colors.md",
-    "CS/Competitive Programming/Leetcode Daily/22 - Easy - O - Reverse Linked List.md",
-    "CS/Competitive Programming/Leetcode Daily/23 - Easy - O - Merge Sorted LL's.md",
     "CS/Images/terrible pfixsum diagram I made.png",
     "Untitled.canvas",
     "CS/CPP",
