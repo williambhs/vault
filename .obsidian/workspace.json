@@ -71,12 +71,8 @@
             "id": "529a45998627fd1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,34 +201,35 @@
   },
   "active": "529a45998627fd1d",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "CS/CPP/11 - Function Templates.md",
+    "CS/CPP/08 - Switch Statements.md",
+    "CS/CPP/02 - Header Files.md",
+    "CS/CPP/Untitled",
+    "CS/Competitive Programming/Leetcode Daily/33 - Easy - X - Find Center of Star Graph.md",
+    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Delete LL Middle Node.md",
+    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Reorder List.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
+    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Remove Nth Node From End of List.md",
     "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Copy List with Random Pointer.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Max Consecutive Ones.md",
     "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
     "CS/Competitive Programming/Leetcode Daily/10 - Medium - O - Search 2D Matrix.md",
-    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
     "CS/Competitive Programming/Leetcode Daily/04 - Medium - O - Group Anagrams.md",
     "CS/Competitive Programming/Leetcode Daily/03 - Easy - I - Design HMap.md",
     "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Smallest Range II.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
     "CS/Competitive Programming/Leetcode Daily/32 - Easy - O - Smallest Range I.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
     "CS/CPP/07 - Defining Namespaces.md",
-    "CS/CPP/08 - Switch Statements.md",
-    "CS/CPP/02 - Header Files.md",
     "CS/CPP/06 - Postfix Increment Decrement.md",
     "CS/CPP/02 - Preprocessor Directives.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Find Pivot Index.md",
     "CS/Competitive Programming/Leetcode Daily/31 - Medium - O - Max Consecutive Ones III.md",
     "CS/Competitive Programming/Leetcode Daily/05 - Medium - O - TwoSum II.md",
     "CS/Competitive Programming/Leetcode Daily/28 - Medium - O - Count Num Nice SubArr.md",
-    "CS/Competitive Programming/Leetcode Daily/29 - Medium - O - Subarr Sum Equals K.md",
-    "CS/Java/04 - A - O - Kadane's Algorithm.md",
-    "CS/Competitive Programming/Leetcode Daily/11 - Medium - O - Max SubArr.md",
-    "CS/Competitive Programming/Leetcode Daily/12 - Medium - O - Max Prod Subarr.md",
-    "CS/Competitive Programming/Leetcode Daily/13 - Easy - O - Valid Parentheses.md",
-    "CS/Competitive Programming/Leetcode Daily/12 - Medium - I - Reverse Words in Str.md",
     "CS/Images/terrible pfixsum diagram I made.png",
-    "Untitled.canvas",
     "CS/CPP",
     "CS/Images/Linked List Diagram.png",
     "CS/Competitive Programming/Codeforces",
@@ -247,7 +240,6 @@
     "CS/Images/Example Alt Text.png",
     "CS/Images/Example Image.png",
     "CS/Images/Hashing Infographic.png",
-    "Untitled 1.canvas",
     "Debate/PR Feedback",
     "Debate",
     "PW/bc pass.png",
