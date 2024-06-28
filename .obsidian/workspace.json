@@ -71,8 +71,12 @@
             "id": "529a45998627fd1d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/Java/04 - A - I - Depth First Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Java/04 - A - I - Depth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Java/04 - A - I - Depth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Java/04 - A - I - Depth First Search.md"
+              }
             }
           }
         ]
@@ -201,34 +209,35 @@
   },
   "active": "529a45998627fd1d",
   "lastOpenFiles": [
+    "CS/Java/04 - A - O - Binary Search.md",
+    "CS/Java/04 - A - O - Prefix Sum.md",
+    "CS/Java/04 - A - O - Sliding Window.md",
+    "CS/Java/02 - DS - O - Tree.md",
+    "CS/Java/04 - A - I - Depth First Search.md",
+    "CS/Java/04 - A - O - Two Pointers.md",
+    "CS/Java/04 - A - O - Kadane's Algorithm.md",
+    "CS/Java/03 - DT - X - Long.md",
+    "CS/Java/02 - DS - O - Stack.md",
+    "CS/Competitive Programming/Leetcode Daily/34 - Easy - I - Binary Tree Inorder Traversal.md",
+    "CS/Competitive Programming/Leetcode Daily/34 - Medium - X - Add Two Numbers.md",
+    "CS/CPP/08 - Switch Statements.md",
+    "CS/Java/02 - DS - X - Linked List.md",
+    "CS/Java/02 - DS - O - Array.md",
+    "CS/Java/01 - C - X - Thread Safety.md",
+    "CS/Java/01 - C - X - LIFO.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
+    "CS/Competitive Programming/Leetcode Daily/05 - Medium - X - Top K Freq Elems.md",
+    "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
+    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Add to Arr-Form of Int.md",
+    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Remove Nth Node From End of List.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "CS/CPP/11 - Function Templates.md",
-    "CS/CPP/08 - Switch Statements.md",
     "CS/CPP/02 - Header Files.md",
     "CS/CPP/Untitled",
     "CS/Competitive Programming/Leetcode Daily/33 - Easy - X - Find Center of Star Graph.md",
     "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Delete LL Middle Node.md",
     "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Reorder List.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
-    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Remove Nth Node From End of List.md",
-    "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Copy List with Random Pointer.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Max Consecutive Ones.md",
-    "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
-    "CS/Competitive Programming/Leetcode Daily/10 - Medium - O - Search 2D Matrix.md",
-    "CS/Competitive Programming/Leetcode Daily/04 - Medium - O - Group Anagrams.md",
-    "CS/Competitive Programming/Leetcode Daily/03 - Easy - I - Design HMap.md",
-    "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Smallest Range II.md",
-    "CS/Competitive Programming/Leetcode Daily/32 - Easy - O - Smallest Range I.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Medium - X - Subarray Sums Divisible by K.md",
-    "CS/CPP/07 - Defining Namespaces.md",
-    "CS/CPP/06 - Postfix Increment Decrement.md",
-    "CS/CPP/02 - Preprocessor Directives.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Easy - O - Find Pivot Index.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Medium - O - Max Consecutive Ones III.md",
-    "CS/Competitive Programming/Leetcode Daily/05 - Medium - O - TwoSum II.md",
-    "CS/Competitive Programming/Leetcode Daily/28 - Medium - O - Count Num Nice SubArr.md",
     "CS/Images/terrible pfixsum diagram I made.png",
     "CS/CPP",
     "CS/Images/Linked List Diagram.png",
