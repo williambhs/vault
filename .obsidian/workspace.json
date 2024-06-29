@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - X - Binary Tree Preorder Traversal.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - X - Binary Tree Preorder Traversal.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - X - Binary Tree Preorder Traversal.md",
+                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - X - Binary Tree Preorder Traversal.md"
+                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md"
               }
             }
           }
@@ -209,10 +209,10 @@
   },
   "active": "529a45998627fd1d",
   "lastOpenFiles": [
-    "CS/Competitive Programming/Leetcode Daily/34 - Medium - X - Add Two Numbers.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Leetcode Daily/35 - Easy - X - Binary Tree Preorder Traversal.md",
     "CS/Competitive Programming/Leetcode Daily/34 - Easy - O - Binary Tree Inorder Traversal.md",
+    "CS/Competitive Programming/Leetcode Daily/34 - Medium - X - Add Two Numbers.md",
+    "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
+    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
     "CS/Java/02 - DS - Monotonic Stack.md",
     "CS/Java/04 - A - I - Depth First Search.md",
     "CS/Java/04 - A - O - Binary Search.md",
