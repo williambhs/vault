@@ -1,6 +1,6 @@
 
 **Problem Number: 152
-Relevant Tags: [[04 - A - O - Sliding Window]], [[04 - A - O - Kadane's Algorithm]], [[11 - Medium - O - Max SubArr]]
+Relevant Tags: [[04 - A - O - Sliding Window]], [[04 - A - O - Kadane's Algorithm]], [[11 - Medium - J - Max SubArr]]
 <h1> Problem Description </h1>
 Given an integer array `nums`, find a 
 
@@ -32,7 +32,7 @@ The test cases are generated so that the answer will fit in a **32-bit** integ
 Sliding window approach using multiplication and division operators - the problem is if there are two negatives spaced far apart
 Maybe possible to brute force - create temp variable, then shrink the array after? Ie. make a window that encompasses the entire array, and then shrink it to size 0... seems very inefficient
 
-After coming back to this having solved [[11 - Medium - O - Max SubArr]], it seems very similar. Instead, however, the product can always be more if curr is negative and [i] is negative, then curr * i will always be greater.
+After coming back to this having solved [[11 - Medium - J - Max SubArr]], it seems very similar. Instead, however, the product can always be more if curr is negative and [i] is negative, then curr * i will always be greater.
 
 Apparently the solution involves keeping track of both a maximum and minimum product - you multiply the value by both the maximum and index and set the current max to the greatest of both.
 Keep track of the max - if the value is less than 0 then the minimum becomes the max.

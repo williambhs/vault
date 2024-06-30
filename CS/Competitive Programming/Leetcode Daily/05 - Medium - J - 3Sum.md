@@ -1,6 +1,6 @@
 
 **Problem Number: 15
-Relevant Tags: [[01 - Easy - O - Twosum]], [[05 - Medium - O - TwoSum II]], [[04 - A - O - Two Pointers]]
+Relevant Tags: [[01 - Easy - CJ - Twosum]], [[05 - Medium - CJ - TwoSum II sorted]], [[04 - A - O - Two Pointers]]
 <h1> Problem Description </h1>
 Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 

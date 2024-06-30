@@ -1,6 +1,6 @@
 
 **Problem Number: 167
-Relevant Tags: [[01 - Easy - O - Twosum]], [[04 - A - O - Two Pointers]]
+Relevant Tags: [[01 - Easy - CJ - Twosum]], [[04 - A - O - Two Pointers]]
 <h1> Problem Description </h1>
 Given a 1-indexed array of integers `numbers` that is already **_sorted in non-decreasing order_**, find two numbers such that they add up to a specific `target` number. Let these two numbers be `numbers[index1]` and `numbers[index2]` where `1 <= index1 < index2 <= numbers.length`.
 
@@ -97,3 +97,21 @@ return arr;
 }
 
 }
+
+Finished in C++ as well:
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        vector<int> v(numbers);
+        int left = 0;
+        int right = numbers.size() - 1;
+        while (left <= right) {
+            if (v[left] + v[right] == target) return {left + 1, right + 1};
+            if (v[left] + v[right] < target) left++;
+            if (v[left] + v[right] > target) right--;
+        }
+        return {};
+    }
+};
+```

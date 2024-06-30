@@ -1,6 +1,6 @@
 
 **Problem Number: 13
-Relevant Tags: [[02 - DS - O - HashMap]]
+Relevant Tags: [[02 - DS - O - HashMap]], [[Map]]
 <h1> Problem Description </h1>
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
@@ -127,3 +127,31 @@ class Solution {
     }
 
 }
+
+----
+C++ Solution
+
+```cpp
+class Solution {
+public:
+    int romanToInt(string s) {
+        map<char, int> mp;
+        mp['I'] = 1;
+        mp['V'] = 5;
+        mp['X'] = 10;
+        mp['L'] = 50;
+        mp['C'] = 100;
+        mp['D'] = 500;
+        mp['M'] = 1000;
+        
+        int ans = mp[s[0]];
+
+        for (int i = 1; i < s.length(); ++i) {
+            char c = s[i];
+            if (mp[c] > mp[s[i-1]]) ans -= 2 * mp[s[i-1]];
+            ans += mp[c];
+        }
+        return ans;
+    }
+};
+```

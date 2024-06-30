@@ -1,6 +1,6 @@
 
 **Problem Number: 155
-Relevant Tags: [[14 - Medium - O - Min Stack]], [[01 - C - O - Ternary Operator]]
+Relevant Tags: [[14 - Medium - J - Min Stack]], [[01 - C - O - Ternary Operator]]
 <h1> Problem Description </h1>
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 

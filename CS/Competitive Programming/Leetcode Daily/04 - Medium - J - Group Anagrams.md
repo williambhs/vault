@@ -1,6 +1,6 @@
 
 **Problem Number: 49
-Relevant Tags: [[03 - Easy - O - Valid Anagram]], [[02 - DS - O - HashMap]]
+Relevant Tags: [[03 - Easy - J - Valid Anagram]], [[02 - DS - O - HashMap]]
 <h1> Problem Description </h1>
 Given an array of strings `strs`, group **the anagrams** together. You can return the answer in **any order**.
 

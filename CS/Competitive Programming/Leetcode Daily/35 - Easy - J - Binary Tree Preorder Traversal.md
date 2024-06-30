@@ -1,6 +1,6 @@
 
 **Problem Number: 144
-Relevant Tags: [[34 - Easy - O - Binary Tree Inorder Traversal]]
+Relevant Tags: [[34 - Easy - J - Binary Tree Inorder Traversal]]
 <h1> Problem Description </h1>
 Given the `root` of a binary tree, return _the preorder traversal of its nodes' values_.
 

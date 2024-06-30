@@ -78,7 +78,7 @@ temp.add(num);
 
 }
 
-HashSet<Integer> set = new HashSet<>(temp);
+HashSet<Integer > set = new HashSet<>(temp);
 
 if (set.size() == nums.length) return false;
 
@@ -87,3 +87,18 @@ return true;
 }
 
 }
+
+C++ Solution
+
+```cpp
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        set<int> s;
+        for (int i: nums) {
+            s.insert(i);
+        }
+        return !(s.size() == nums.size());
+    }
+};
+```

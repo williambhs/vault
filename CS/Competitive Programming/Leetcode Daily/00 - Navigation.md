@@ -4,6 +4,11 @@
 **Medium:** 15
 
 <h1> Day # - Difficulty - Status - Problem Name </h1>
+CJ - Completed in C++, Java
+C - Completed in C++
+J - Completed in Java
+I - Completed, revisit
+X - Attempted/Not Started
 
 **Problem Number: 
 Relevant Tags:

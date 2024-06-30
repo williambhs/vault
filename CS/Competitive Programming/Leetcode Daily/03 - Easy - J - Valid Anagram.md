@@ -24,7 +24,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 -----
 
 Remember doing this one last summer. Seems pretty easy, just use charat and compare two strings.
-nevermind i thought this was palindrome, lmao. still doesnt seem too hard. just convert the string into a hashmap... similar to the ransomnote problem (see - [[03 - Easy - O - Ransom Note]])
+nevermind i thought this was palindrome, lmao. still doesnt seem too hard. just convert the string into a hashmap... similar to the ransomnote problem (see - [[03 - Easy - CJ - Ransom Note]])
 <h1> Solution </h1>
 class Solution {
 
