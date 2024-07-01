@@ -3,11 +3,7 @@
 Relevant Tags: [[02 - DS - O - HashSet]]
 <h1> Problem Description </h1>
 
-Given a string `s`, find the length of the **longest** 
-
-**substring**
-
- without repeating characters.
+Given a string `s`, find the length of the **longest** substring without repeating characters.
 
 **Example 1:**
 
@@ -129,3 +125,45 @@ return len;
 }
 
 }
+
+C++ Solution
+
+```cpp
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        if (s.length() == 0 || s.length() == 1) return s.length();
+        
+        map<char, int>mp;
+        int maxLen{0};
+        int currLen{0};
+
+        int left{0};
+        int right{0};
+
+        while (right < s.length()) {
+            char curr{s[right]};
+            mp[curr]++;
+
+            if (mp[curr] > 1) {
+                while (s[left] != curr) {
+                    char leftChar{s[left]};
+                    mp[leftChar]--;
+                    left++;
+                    currLen--;
+                }
+                left++;
+                currLen--;
+                mp[curr]--;
+            }
+
+            currLen++;
+            maxLen = max(currLen, maxLen);
+            right++;
+
+        }
+        return maxLen;
+        
+    }
+};
+```
