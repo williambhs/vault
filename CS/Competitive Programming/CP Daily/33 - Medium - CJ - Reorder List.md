@@ -108,4 +108,71 @@ class Solution {
         }
     }
 }
+
 ``` 
+----
+
+C++ Solution
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    void reorderList(ListNode* head) {
+
+        if (head == nullptr || head->next == nullptr) return;
+        
+        // finding mid
+        ListNode* prev = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            prev = slow;
+            fast = fast->next->next;
+            slow = slow->next;
+        }
+
+        // break linked list into two
+        prev->next = nullptr;
+
+        // ...then reverse the second half
+        ListNode* l2 = reverse(slow);
+
+        // finally merge both lists
+        merge(head, l2);
+    }
+
+    ListNode* reverse(ListNode* head) {
+        ListNode* prev = nullptr;
+        while (head != nullptr) {
+            ListNode* next = head->next;
+            head->next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
+    }
+
+    void merge(ListNode* l1, ListNode* l2) {
+
+        while (l1 != nullptr && l2 != nullptr) {
+            ListNode* l1n = l1->next;
+            ListNode* l2n = l2->next;
+            l1->next = l2;
+            if (l1n == nullptr) break;
+            l2->next = l1n;
+            l1 = l1n;
+            l2 = l2n;
+        }
+    }
+};
+```
