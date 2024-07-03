@@ -30,7 +30,7 @@ Return the running sum of `nums`.
 
 
 -----
-Just doing some prefix sum practice. This problem literally just asks you to make a prefix sum array. So. Yeah. I did that.
+Just doing some prefix sum practice. This problem literally just asks you to make a prefix sum array. 
 
 <h1> Solution </h1>
 ```java
@@ -46,4 +46,20 @@ class Solution {
         
     }
 }
+```
+----
+C++ Solution
+```cpp
+class Solution {
+public:
+    vector<int> runningSum(vector<int>& nums) {
+        vector<int> ans(nums.size(), 0);
+        ans[0] = nums[0];
+        for (int i = 1; i < nums.size(); i++) {
+            ans[i] = ans[i-1] + nums[i];
+        }
+        return ans;
+        
+    }
+};
 ```
