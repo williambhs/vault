@@ -26,3 +26,10 @@ for example - vector < int > v(10, 0) creates a vector with size 10 populated wi
 vector < int > name(v);
 
 (assume v is the name of a different vector)
+
+C++ vectors allow swapping - this way you can:
+
+a] swap two vectors - syntax is v1.swap(v2). 
+this is done in constant time and is an efficient way to swap each element in vector v2 with each element in vector v1.
+
+b] swap elements within a vector - instead of having to make a temporary variable you can also do swap(v1[0], v1[1]) and it will swap the element at index 0 with the element at index 1.
