@@ -2,7 +2,6 @@
 
 ----
 
-ask about aly q1
 
 What is theoretically generative about refusal?
 -"not just a no but a redirection to ideas otherwise unacknowledged or unquestioned"

@@ -1,5 +1,5 @@
 
-1ac - NoKo
+1ac - noko
 1nc - cp - conditions, cp - adv
 1ar - covered
 2nr - case
