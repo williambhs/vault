@@ -2,7 +2,7 @@
 **Relevant Tags:** [[02 - DS - O - Hashmap]], [[Pair]]
 
 ---
-Basically just a Java hashmap.
+Basically just a Java hashmap - think of it as an arraylist or vector of pairs.
 Syntax is
 map< dt1, dt2> mapname;
 
@@ -15,6 +15,16 @@ for example, if you wanted to add a value to a map of chars to ints called map, 
 map['c'] = 12;
 
 this would map key c to value 12 in the map.
+
+to populate the map during its initialization, the syntax is as follows:
+
+map<char, int> = {
+{'a' , 0},
+{'b', 0},
+{'c', 0}
+};
+note the semicolon after the second curly brace as well as commas after the pairs.
+
 another way to put values in the map is directly using pairs - for example a pair of type char int initialized with
 pair p1('c', 12);
 could be inserted using the insert method:
@@ -34,3 +44,4 @@ Some useful methods include:
 .clear()
 .insert() - explained above
 .erase()
+

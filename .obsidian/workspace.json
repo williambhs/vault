@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1677b99a73f21d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debate/PR Feedback/vs Sully - Holden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c6636a9a17d6574f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,53 +142,53 @@
   },
   "active": "c6636a9a17d6574f",
   "lastOpenFiles": [
-    "CS/Competitive Programming/Leetcode Daily/36 - Medium - O - Smallest Range II.md",
-    "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Copy List with Random Pointer.md",
-    "CS/Competitive Programming/Leetcode Daily/34 - Easy - J - Binary Tree Inorder Traversal.md",
-    "CS/Competitive Programming/Leetcode Daily/34 - Medium - X - Add Two Numbers.md",
-    "CS/Competitive Programming/Leetcode Daily/36 - Easy - C - Make Array 0 by Subtracting Equal Amounts.md",
-    "CS/Competitive Programming/Leetcode Daily/35 - Easy - J - Binary Tree Preorder Traversal.md",
-    "CS/Competitive Programming/Leetcode Daily/36 - Easy - X - Two Sum IV - Input is a BST.md",
-    "CS/Competitive Programming/Leetcode Daily/30 - Easy - O - Range Sum Query Immutable.md",
-    "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
-    "CS/Competitive Programming/Leetcode Daily/33 - Medium - J - Reorder List.md",
-    "CS/Competitive Programming/Leetcode Daily/33 - Medium - J - Remove Nth Node From End of List.md",
-    "CS/Competitive Programming/Leetcode Daily/33 - Medium - J - Delete LL Middle Node.md",
-    "CS/Competitive Programming/Leetcode Daily/32 - Easy - J - Smallest Range I.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Medium - J - Max Consecutive Ones III.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Easy - J - Max Consecutive Ones.md",
-    "CS/Competitive Programming/Leetcode Daily/31 - Easy - J - Find Pivot Index.md",
-    "CS/Competitive Programming/Leetcode Daily/30 - Easy - J - Running Sum of 1D array.md",
-    "CS/Competitive Programming/Leetcode Daily/30 - Easy - J - Range Sum Query Immutable.md",
-    "CS/Competitive Programming/Leetcode Daily/29 - Medium - J - Subarr Sum Equals K.md",
-    "CS/Competitive Programming/Leetcode Daily/28 - Medium - J - Count Num Nice SubArr.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Medium - J - Removing Stars From Str.md",
-    "CS/Competitive Programming/Leetcode Daily/20 - Easy - J - Min Num Moves to Seat Everyone.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - J - Relative Sort Array.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - J - Implement Queue using Stacks.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - J - Add to Arr-Form of Int.md",
-    "CS/Competitive Programming/Leetcode Daily/18 - Easy - J - Height Checker.md",
-    "CS/CPP/General",
-    "CS/CPP/DT",
-    "CS/CPP/DS",
+    "Debate/Feedback/00 - Redos/Redo - Cora.md",
+    "Debate/Feedback/00 - PRs/vs Will Wei - Shaina, Meza, Dosch.md",
+    "Debate/Feedback/00 - PRs/vs Sully - Holden.md",
+    "Debate/Feedback/00 - PRs/vs Rishad.md",
+    "Debate/Feedback/00 - PRs/vs Nico - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Nico - Gordon.md",
+    "Debate/Feedback/00 - PRs/vs Mia - Jared.md",
+    "Debate/Feedback/00 - PRs/vs Luis - Michael Harris.md",
+    "Debate/Feedback/00 - PRs/vs Emma - Riley Rees.md",
+    "Debate/Feedback/00 - PRs/vs Emma - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Emma - DDosch.md",
+    "Debate/Feedback/00 - PRs/vs Brian - Michael Harris.md",
+    "Debate/Feedback/00 - PRs/vs Austin - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Andrew - Borgas.md",
+    "Debate/Feedback/00 - PRs/vs Aaron - PFox.md",
+    "Debate/Feedback/00 - Redos",
+    "Debate/Feedback/00 - PRs",
+    "Debate/Feedback",
+    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
+    "PW/Discord.md",
+    "Debate/X - Images/revisionism visual.png",
+    "Debate/X - Images/Embedded Clash Template.png",
+    "Debate/X - Images",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Going for a CP.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/CX.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Aff Construction.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/0 - Misc.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Theory.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Types of Counterplans.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Condo, Splot.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Competition.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/0 - Misc.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 1",
+    "Debate/Camp Compiled 2024/02 - Kritik/Day 2",
+    "Debate/Camp Compiled 2024/02 - Kritik/Day 1",
+    "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled",
+    "CS/X - Images/Useful HTML entities.png",
+    "CS/X - Images/terrible pfixsum diagram I made.png",
+    "CS/X - Images/Stack Methods.png",
+    "CS/X - Images/HashSet method summary.png",
+    "CS/X - Images/Linked List Diagram.png",
+    "CS/X - Images/Java Unicode Visual.png",
+    "CS/X - Images/Hashing Infographic.png",
+    "CS/X - Images/Example Image.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "CS/CPP/Untitled",
-    "CS/Images/terrible pfixsum diagram I made.png",
-    "CS/CPP",
-    "CS/Images/Linked List Diagram.png",
-    "CS/Competitive Programming/Codeforces",
-    "CS/Competitive Programming/Leetcode Daily",
-    "CS/Images/Stack Methods.png",
-    "CS/Images/Java Unicode Visual.png",
-    "CS/Images/Useful HTML entities.png",
-    "CS/Images/Example Alt Text.png",
-    "CS/Images/Example Image.png",
-    "CS/Images/Hashing Infographic.png",
-    "Debate/PR Feedback",
-    "Debate",
-    "PW/bc pass.png",
-    "PW",
-    "CS/Images/HashSet method summary.png"
+    "Untitled.canvas"
   ]
 }
