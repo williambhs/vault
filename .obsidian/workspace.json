@@ -8,79 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4320187d78ceb911",
+            "id": "c6636a9a17d6574f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bc8cb6dd28144ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/16 - Easy - O - Next Greater Element I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77e4a1b8988f3d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Relative Sort Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42860f282f766622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Removing Stars From Str.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1677b99a73f21d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/32 - Medium - X - Smallest Range II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "529a45998627fd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,55 +140,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529a45998627fd1d",
+  "active": "c6636a9a17d6574f",
   "lastOpenFiles": [
-    "CS/Competitive Programming/Leetcode Daily/34 - Easy - O - Binary Tree Inorder Traversal.md",
-    "CS/Competitive Programming/Leetcode Daily/34 - Medium - X - Add Two Numbers.md",
-    "CS/Competitive Programming/Leetcode Daily/35 - Easy - O - Binary Tree Preorder Traversal.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Java/02 - DS - Monotonic Stack.md",
-    "CS/Java/04 - A - I - Depth First Search.md",
-    "CS/Java/04 - A - O - Binary Search.md",
-    "CS/Java/04 - A - O - Prefix Sum.md",
-    "CS/Java/04 - A - O - Sliding Window.md",
-    "CS/Java/02 - DS - O - Tree.md",
-    "CS/Java/04 - A - O - Two Pointers.md",
-    "CS/Java/04 - A - O - Kadane's Algorithm.md",
-    "CS/Java/03 - DT - X - Long.md",
-    "CS/Java/02 - DS - O - Stack.md",
-    "CS/CPP/08 - Switch Statements.md",
-    "CS/Java/02 - DS - X - Linked List.md",
-    "CS/Java/02 - DS - O - Array.md",
-    "CS/Java/01 - C - X - Thread Safety.md",
-    "CS/Java/01 - C - X - LIFO.md",
-    "CS/Competitive Programming/Leetcode Daily/05 - Medium - X - Top K Freq Elems.md",
-    "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Add to Arr-Form of Int.md",
-    "CS/Competitive Programming/Leetcode Daily/33 - Medium - O - Remove Nth Node From End of List.md",
+    "Debate/Feedback/00 - Redos/Redo - Cora.md",
+    "Debate/Feedback/00 - PRs/vs Will Wei - Shaina, Meza, Dosch.md",
+    "Debate/Feedback/00 - PRs/vs Sully - Holden.md",
+    "Debate/Feedback/00 - PRs/vs Rishad.md",
+    "Debate/Feedback/00 - PRs/vs Nico - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Nico - Gordon.md",
+    "Debate/Feedback/00 - PRs/vs Mia - Jared.md",
+    "Debate/Feedback/00 - PRs/vs Luis - Michael Harris.md",
+    "Debate/Feedback/00 - PRs/vs Emma - Riley Rees.md",
+    "Debate/Feedback/00 - PRs/vs Emma - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Emma - DDosch.md",
+    "Debate/Feedback/00 - PRs/vs Brian - Michael Harris.md",
+    "Debate/Feedback/00 - PRs/vs Austin - Navya.md",
+    "Debate/Feedback/00 - PRs/vs Andrew - Borgas.md",
+    "Debate/Feedback/00 - PRs/vs Aaron - PFox.md",
+    "Debate/Feedback/00 - Redos",
+    "Debate/Feedback/00 - PRs",
+    "Debate/Feedback",
+    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
+    "PW/Discord.md",
+    "Debate/X - Images/revisionism visual.png",
+    "Debate/X - Images/Embedded Clash Template.png",
+    "Debate/X - Images",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Going for a CP.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/CX.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Aff Construction.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3/0 - Misc.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Theory.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Types of Counterplans.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Condo, Splot.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Competition.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2/0 - Misc.md",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 3",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 2",
+    "Debate/Camp Compiled 2024/01 - Policy/Day 1",
+    "Debate/Camp Compiled 2024/02 - Kritik/Day 2",
+    "Debate/Camp Compiled 2024/02 - Kritik/Day 1",
+    "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled",
+    "CS/X - Images/Useful HTML entities.png",
+    "CS/X - Images/terrible pfixsum diagram I made.png",
+    "CS/X - Images/Stack Methods.png",
+    "CS/X - Images/HashSet method summary.png",
+    "CS/X - Images/Linked List Diagram.png",
+    "CS/X - Images/Java Unicode Visual.png",
+    "CS/X - Images/Hashing Infographic.png",
+    "CS/X - Images/Example Image.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "CS/CPP/11 - Function Templates.md",
-    "CS/CPP/02 - Header Files.md",
-    "CS/CPP/Untitled",
-    "CS/Competitive Programming/Leetcode Daily/33 - Easy - X - Find Center of Star Graph.md",
-    "CS/Images/terrible pfixsum diagram I made.png",
-    "CS/CPP",
-    "CS/Images/Linked List Diagram.png",
-    "CS/Competitive Programming/Codeforces",
-    "CS/Competitive Programming/Leetcode Daily",
-    "CS/Images/Stack Methods.png",
-    "CS/Images/Java Unicode Visual.png",
-    "CS/Images/Useful HTML entities.png",
-    "CS/Images/Example Alt Text.png",
-    "CS/Images/Example Image.png",
-    "CS/Images/Hashing Infographic.png",
-    "Debate/PR Feedback",
-    "Debate",
-    "PW/bc pass.png",
-    "PW",
-    "CS/Images/HashSet method summary.png",
-    "CS/Images",
-    "CS/Competitive Programming",
-    "CS/Java"
+    "Untitled.canvas"
   ]
 }
