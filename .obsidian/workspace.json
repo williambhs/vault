@@ -11,9 +11,11 @@
             "id": "c6636a9a17d6574f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md"
+              }
             }
           }
         ]
@@ -142,44 +148,44 @@
   },
   "active": "c6636a9a17d6574f",
   "lastOpenFiles": [
+    "Debate/24-25 K Aff Stuff/Reading Notes",
+    "Debate/ADC Compiled/Lectures/Chad Shomura - General Discussion.md",
+    "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
+    "Debate/24-25 K Aff Stuff",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Experience.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Historical Background.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Theoretical Foundations.md",
+    "Debate/ADC Compiled/Lectures/Barquin - K Tricks.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Debate Application.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/0 - General.md",
+    "CS/Competitive Programming/CP Daily/44 - Easy.md",
+    "Debate/ADC Compiled/Lectures",
+    "Debate/ADC Compiled",
+    "Debate/Camp Compiled 2024/00 - Mentor/Neoliberalism Overview.md",
+    "Debate/Camp Compiled 2024/00 - Mentor/Kant Reverse Pik.md",
+    "Debate/Camp Compiled 2024/00 - Mentor/Framework.md",
+    "CS/Competitive Programming/CP Daily/43 - Easy - C - Water Bottles.md",
+    "CS/Competitive Programming/CP Daily/41UB - Normal - C - Block Game.md",
+    "CS/Competitive Programming/CP Daily/37 - Easy - C - Three Consecutive Odds.md",
+    "CS/Competitive Programming/CP Daily/24 - Medium - X - Most Profit Assigning Work.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Add to Arr-Form of Int.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Implement Queue using Stacks.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Relative Sort Array.md",
     "Debate/Feedback/00 - Redos/Redo - Cora.md",
     "Debate/Feedback/00 - PRs/vs Will Wei - Shaina, Meza, Dosch.md",
     "Debate/Feedback/00 - PRs/vs Sully - Holden.md",
     "Debate/Feedback/00 - PRs/vs Rishad.md",
     "Debate/Feedback/00 - PRs/vs Nico - Navya.md",
     "Debate/Feedback/00 - PRs/vs Nico - Gordon.md",
-    "Debate/Feedback/00 - PRs/vs Mia - Jared.md",
-    "Debate/Feedback/00 - PRs/vs Luis - Michael Harris.md",
-    "Debate/Feedback/00 - PRs/vs Emma - Riley Rees.md",
-    "Debate/Feedback/00 - PRs/vs Emma - Navya.md",
-    "Debate/Feedback/00 - PRs/vs Emma - DDosch.md",
-    "Debate/Feedback/00 - PRs/vs Brian - Michael Harris.md",
-    "Debate/Feedback/00 - PRs/vs Austin - Navya.md",
-    "Debate/Feedback/00 - PRs/vs Andrew - Borgas.md",
-    "Debate/Feedback/00 - PRs/vs Aaron - PFox.md",
     "Debate/Feedback/00 - Redos",
     "Debate/Feedback/00 - PRs",
     "Debate/Feedback",
-    "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Container w Most Water.md",
-    "PW/Discord.md",
     "Debate/X - Images/revisionism visual.png",
     "Debate/X - Images/Embedded Clash Template.png",
     "Debate/X - Images",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Going for a CP.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 3/CX.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 3/Aff Construction.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 3/0 - Misc.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Theory.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Types of Counterplans.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Condo, Splot.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 2/Competition.md",
-    "Debate/Camp Compiled 2024/01 - Policy/Day 2/0 - Misc.md",
     "Debate/Camp Compiled 2024/01 - Policy/Day 3",
     "Debate/Camp Compiled 2024/01 - Policy/Day 2",
     "Debate/Camp Compiled 2024/01 - Policy/Day 1",
-    "Debate/Camp Compiled 2024/02 - Kritik/Day 2",
-    "Debate/Camp Compiled 2024/02 - Kritik/Day 1",
-    "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled",
     "CS/X - Images/Useful HTML entities.png",
     "CS/X - Images/terrible pfixsum diagram I made.png",
     "CS/X - Images/Stack Methods.png",
