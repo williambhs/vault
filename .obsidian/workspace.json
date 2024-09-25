@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4320187d78ceb911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/17 - Medium - O - Daily Temperatures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bc8cb6dd28144ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/16 - Easy - O - Next Greater Element I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77e4a1b8988f3d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Relative Sort Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42860f282f766622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Competitive Programming/Leetcode Daily/20 - Medium - O - Removing Stars From Str.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0748723501ce0983",
             "type": "leaf",
             "state": {
@@ -80,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e49e6d98a0edd414",
+  "active": "4b4b26cb0b1825b5",
   "lastOpenFiles": [
+    "Debate/Feedback/00 - PRs/vs Rishad.md",
+    "CS/Competitive Programming/CP Daily/21 - Medium - O - Min Increment for Unique Array.md",
     "CS/Competitive Programming/CP Daily/42UB - Normal - C - Bovine Genomics.md",
     "CS/Competitive Programming/CP Daily/03 - Easy - CJ - Contains Dupe.md",
     "Debate/Feedback/00 - PRs/vs Rishad - Quarts.md",
@@ -236,8 +190,6 @@
     "CS/Competitive Programming/Leetcode Daily",
     "CS/Competitive Programming/Leetcode Daily/06 - Medium - X - Valid Sudoku.md",
     "CS/Competitive Programming/Leetcode Daily/18 - Medium - X - Car Fleet.md",
-    "CS/Competitive Programming/Leetcode Daily/18 - Easy - O - Height Checker.md",
-    "CS/Competitive Programming/Leetcode Daily/19 - Easy - O - Implement Queue using Stacks.md",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
