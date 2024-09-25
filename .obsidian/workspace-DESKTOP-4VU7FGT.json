@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "18eed5e1b06ce939",
+    "type": "split",
+    "children": [
+      {
+        "id": "fada5d04f2fe081c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6636a9a17d6574f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/Rifkin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6471415de5b49f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b52d3ca43c26635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4b26cb0b1825b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d196f57bf9b92955",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9005183fea2f8375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d3103cba2eb5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec75e28cbd12b666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02866d067da80c39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/Rifkin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d27178adafbedfc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/Rifkin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ddc91afac3d5a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77dfdfa639b3f057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/Rifkin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6636a9a17d6574f",
+  "lastOpenFiles": [
+    "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/Questions.md",
+    "Debate/Camp Compiled 2024/00 - Mentor/Setcol Compiled/King.md",
+    "Debate/Camp Compiled 2024/00 - Mentor/Framework.md",
+    "Debate/24-25 DD/SepOct/Topic Lecture.md",
+    "Debate/ADC Compiled/Lectures/K Affs - Joe Rhee.md",
+    "Debate/24-25 DD/SepOct",
+    "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
+    "Debate/24-25 DD",
+    "Debate/ADC Compiled/Lectures/Theory - Nato.md",
+    "Debate/24-25 K Aff Stuff/Nato Stuff",
+    "Debate/24-25 K Aff Stuff/Reading Notes",
+    "Debate/ADC Compiled/Lectures/Chad Shomura - General Discussion.md",
+    "Debate/24-25 K Aff Stuff",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Experience.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Historical Background.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Theoretical Foundations.md",
+    "Debate/ADC Compiled/Lectures/Barquin - K Tricks.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/Debate Application.md",
+    "Debate/Camp Compiled 2024/00 - Elective/Asian Identity - Elmer Yang/0 - General.md",
+    "CS/Competitive Programming/CP Daily/44 - Easy.md",
+    "Debate/ADC Compiled/Lectures",
+    "Debate/ADC Compiled",
+    "Debate/Camp Compiled 2024/00 - Mentor/Neoliberalism Overview.md",
+    "Debate/Camp Compiled 2024/00 - Mentor/Kant Reverse Pik.md",
+    "CS/Competitive Programming/CP Daily/43 - Easy - C - Water Bottles.md",
+    "CS/Competitive Programming/CP Daily/41UB - Normal - C - Block Game.md",
+    "CS/Competitive Programming/CP Daily/37 - Easy - C - Three Consecutive Odds.md",
+    "CS/Competitive Programming/CP Daily/24 - Medium - X - Most Profit Assigning Work.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Add to Arr-Form of Int.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Implement Queue using Stacks.md",
+    "CS/Competitive Programming/CP Daily/19 - Easy - J - Relative Sort Array.md",
+    "Debate/Feedback/00 - Redos/Redo - Cora.md",
+    "Debate/Feedback/00 - PRs/vs Will Wei - Shaina, Meza, Dosch.md",
+    "Debate/Feedback/00 - Redos",
+    "Debate/Feedback/00 - PRs",
+    "Debate/Feedback",
+    "Debate/X - Images/revisionism visual.png",
+    "Debate/X - Images/Embedded Clash Template.png",
+    "CS/X - Images/Useful HTML entities.png",
+    "CS/X - Images/terrible pfixsum diagram I made.png",
+    "CS/X - Images/Stack Methods.png",
+    "CS/X - Images/HashSet method summary.png",
+    "CS/X - Images/Linked List Diagram.png",
+    "CS/X - Images/Java Unicode Visual.png",
+    "CS/X - Images/Hashing Infographic.png",
+    "CS/X - Images/Example Image.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
