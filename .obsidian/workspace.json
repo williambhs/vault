@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md",
+                "file": "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md",
+                "file": "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md",
+                "file": "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Competitive Programming/Misc - FastReader Documentation.md"
+                "file": "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md"
               }
             }
           }
@@ -158,37 +158,45 @@
   },
   "active": "0748723501ce0983",
   "lastOpenFiles": [
+    "Pasted image 20241008220018.png",
+    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md",
+    "Pasted image 20241008220015.png",
+    "2024-2025---Notes Compiled/X - Images",
+    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/General.md",
+    "CS/Competitive Programming/Misc - FastReader Documentation.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Marlborough OO.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Mandy.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Loyola UT.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Immac NH.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/Semis vs Immac Eso.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/Finals vs Marlborough OO.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs St Francis ZC.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Peninsula BS.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Marlborough PP.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Honor AL.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Harvard-Westalke KM.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Arizona Chandler Independent LK.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/Octas vs Immaculate Heart KM.md",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/Dubs vs Immac MF.md",
+    "Debate/Feedback/00 - Tournament Feedback/Loyola RR",
+    "Debate/Feedback/00 - Tournament Feedback/Jack Howe",
+    "Debate/Feedback/00 - Tournament Feedback",
+    "Debate/Feedback/00 - Redos/Redo - Jalyn.md",
+    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists",
+    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces/Polymorphism.md",
+    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces/Interfaces.md",
+    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces",
+    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Surplus.md",
+    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Price Elasticity.md",
+    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2",
+    "2024-2025---Notes Compiled/AP Econ",
+    "2024-2025---Notes Compiled",
     "PW/bc pass.png",
     "PW/BC-DESKTOP-4VU7FGT.md",
     "PW/Discord.md",
-    "CS/CS211/Building Java Programs/File-Reading with Scanner.md",
-    "Debate/Feedback/00 - Redos/Setcol - Jalyn.md",
-    "Debate/Feedback/00 - Redos/Cap K - Cora.md",
-    "Debate/24-25 DD/SepOct/Elmer Psychoanalysis for Jack Howe.md",
-    "Debate/24-25 DD/SepOct/Topic Lecture.md",
-    "CS/Java/01 - C - I - IO (Input Output).md",
-    "PW/BC.md",
-    "CS/CS211/Building Java Programs/Random Numbers.md",
-    "Debate/24-25 K Aff Stuff/Reading Notes/The Asian American Contract On Useful Labor and Social Reproduction in Severance and Minari - Rebecca Liu.md",
-    "CS/Competitive Programming/CP Daily/44 - Easy.md",
-    "CS/CS211/Building Java Programs",
-    "CS/CS211/Untitled.md",
-    "CS/CS211",
-    "CS/Competitive Programming/Misc - FastReader Documentation.md",
-    "Debate/Feedback/00 - PRs/vs Rishad.md",
-    "CS/Competitive Programming/CP Daily/21 - Medium - O - Min Increment for Unique Array.md",
-    "CS/Competitive Programming/CP Daily/42UB - Normal - C - Bovine Genomics.md",
-    "CS/Competitive Programming/CP Daily/03 - Easy - CJ - Contains Dupe.md",
-    "Debate/Feedback/00 - PRs/vs Rishad - Quarts.md",
-    "Debate/Feedback/00 - PRs/vs Zaid - Ciocca.md",
-    "2024-06-05.md",
-    "Debate/Feedback/00 - PRs/vs Will Wei - Shaina, Meza, Dosch.md",
-    "Debate/Feedback/00 - PRs/vs Andrew - Borgas.md",
+    "2024-2025---Notes Compiled/CS211/Building Java Programs/File-Reading with Scanner.md",
+    "2024-2025---Notes Compiled/CS211/Building Java Programs",
     "Debate/X - Images/Embedded Clash Template.png",
-    "CS/Competitive Programming/Leetcode Daily/21 - Medium - O - Min Increment for Unique Array.md",
-    "CS/Competitive Programming/Leetcode Daily/00 - Navigation.md",
-    "CS/Competitive Programming/Codeforces",
-    "CS/Competitive Programming/Leetcode Daily",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
     "CS/Images/Useful HTML entities.png",
@@ -196,14 +204,6 @@
     "CS/Images/Example Image.png",
     "CS/Images/Hashing Infographic.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Debate/PR Feedback",
-    "Debate",
-    "PW",
-    "CS/Images/HashSet method summary.png",
-    "CS/Images/hash img.png",
-    "CS/Images",
-    "CS/Competitive Programming",
-    "CS/Java"
+    "Untitled.canvas"
   ]
 }
