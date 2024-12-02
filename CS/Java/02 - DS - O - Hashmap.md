@@ -6,7 +6,7 @@ V - type of mapped values
 
 **Example Initialization:** HashMap<String, Integer> dogTable = new HashMap<>();
 
-**Relevant Tags:** [[02 - DS - O - Hashtable]], [[01 - C - I - Hashing]]
+**Relevant Tags:** [[02 - DS - O - Hashtable]], [[01 - C - I - Hashing]], [[Map]], [[Maps]]
 
 -----
 
