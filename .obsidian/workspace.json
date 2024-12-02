@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Supply Demand Overview.md",
+                "file": "Debate/Feedback/00 - PRs/vs Yiyi - Jalyn.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "vs Yiyi - Jalyn"
+            }
+          },
+          {
+            "id": "a2d89ef15833fb71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Supply Demand Overview.md",
+                "file": "PW/BC-DESKTOP-4VU7FGT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BC-DESKTOP-4VU7FGT"
             }
           },
           {
@@ -102,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Supply Demand Overview.md",
+                "file": "PW/BC-DESKTOP-4VU7FGT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BC-DESKTOP-4VU7FGT"
             }
           },
           {
@@ -116,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Supply Demand Overview.md"
-              }
+                "file": "PW/BC-DESKTOP-4VU7FGT.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BC-DESKTOP-4VU7FGT"
             }
           }
         ]
@@ -146,47 +173,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0748723501ce0983",
+  "active": "a2d89ef15833fb71",
   "lastOpenFiles": [
-    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Surplus.md",
-    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Supply Demand Overview.md",
-    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2/Price Elasticity.md",
-    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/Comparable Interface.md",
+    "PW/Discord.md",
+    "PW/BC-DESKTOP-4VU7FGT.md",
+    "PW/bc pass.png",
+    "PW/BC.md",
+    "CS/CPP/General/01 - Naming Conventions.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/desktop.ini",
+    "2024-2025---Notes Compiled/Physics C/Circular Motion/desktop.ini",
+    "CS/Java/02 - DS - O - Hashmap.md",
+    "2024-2025---Notes Compiled/CS211/Ch14 - Stack and Queue/desktop.ini",
+    "2024-2025---Notes Compiled/AP Calc AB/Unit 3---Formulas/desktop.ini",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/vs Strake Jesuit JW.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/vs Stanford OHS AY.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/vs Riverside OT.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/vs Mountain Lakes EW.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/vs Isidore Newman AB.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley/Trips vs Isidore Newman JD.md",
+    "Debate/Feedback/00 - Tournament Feedback/Apple Valley",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Newtons Third Law.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Newtons Second Law.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Newtons First Law.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Mass.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Friction.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion/Concept of Force.md",
+    "2024-2025---Notes Compiled/Physics C/Circular Motion/Application of Newtons Second Law to Uniform Circular Motion.md",
+    "2024-2025---Notes Compiled/Physics C/Laws of Motion",
+    "2024-2025---Notes Compiled/Physics C/Circular Motion",
+    "2024-2025---Notes Compiled/Physics C",
+    "2024-2025---Notes Compiled/CS211/Ch16 - Linked List/Traversal.md",
+    "2024-2025---Notes Compiled/CS211/Ch16 - Linked List/Nodes.md",
+    "2024-2025---Notes Compiled/CS211/Ch16 - Linked List/Creating a Linked List Class.md",
+    "2024-2025---Notes Compiled/CS211/Ch16 - Linked List",
+    "2024-2025---Notes Compiled/CS211/Ch15 - Generics/Simple ArrayIntList.md",
+    "2024-2025---Notes Compiled/CS211/Ch15 - Generics/Advanced Features.md",
+    "2024-2025---Notes Compiled/CS211/Ch15 - Generics",
+    "2024-2025---Notes Compiled/CS211/Ch14 - Stack and Queue/Stack + Queue Basics.md",
+    "2024-2025---Notes Compiled/CS211/Ch13 - Searching and Sorting/Binary Search.md",
+    "2024-2025---Notes Compiled/CS211/Ch12 - Recursion/General.md",
     "Pasted image 20241008220018.png",
     "Pasted image 20241008220015.png",
-    "2024-2025---Notes Compiled/X - Images",
-    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists/General.md",
-    "CS/Competitive Programming/Misc - FastReader Documentation.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Marlborough OO.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Mandy.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Loyola UT.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/vs Immac NH.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/Semis vs Immac Eso.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR/Finals vs Marlborough OO.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs St Francis ZC.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Peninsula BS.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Marlborough PP.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Honor AL.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Harvard-Westalke KM.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/vs Arizona Chandler Independent LK.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/Octas vs Immaculate Heart KM.md",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe/Dubs vs Immac MF.md",
-    "Debate/Feedback/00 - Tournament Feedback/Loyola RR",
-    "Debate/Feedback/00 - Tournament Feedback/Jack Howe",
-    "Debate/Feedback/00 - Tournament Feedback",
-    "Debate/Feedback/00 - Redos/Redo - Jalyn.md",
-    "2024-2025---Notes Compiled/CS211/Ch10 - ArrayLists",
-    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces/Polymorphism.md",
-    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces/Interfaces.md",
-    "2024-2025---Notes Compiled/CS211/CH09 - Inheritance and Interfaces",
-    "2024-2025---Notes Compiled/AP Econ/Micro Unit 2",
-    "2024-2025---Notes Compiled/AP Econ",
-    "2024-2025---Notes Compiled",
-    "PW/bc pass.png",
-    "PW/BC-DESKTOP-4VU7FGT.md",
-    "PW/Discord.md",
-    "2024-2025---Notes Compiled/CS211/Building Java Programs/File-Reading with Scanner.md",
-    "2024-2025---Notes Compiled/CS211/Building Java Programs",
     "Debate/X - Images/Embedded Clash Template.png",
     "CS/Images/Stack Methods.png",
     "CS/Images/Java Unicode Visual.png",
